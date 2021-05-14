@@ -31,8 +31,8 @@ https://runesdoma.in/dls/client.swf?env=testing
 
 ## TWO FACTOR AUTHENTICATION
 Please consider enabling 2FA once you join the server, data-leaks are more prevalent than ever and 2FA is a great extra step in doing so.
-* 1. In game, do '/discordtag (your tag)' for example: I'd write mine out as '/discordtag @runes#0001'
+* In game, do '/discordtag (your tag)' for example: I'd write mine out as '/discordtag @runes#0001'.
 
-* 2. DM the '2FA!' bot in the discord server this: '!verify [IGN]'. It will give a dialogue saying that you have been verified.
+* Then DM the '2FA!' bot in the discord server this: '!verify [IGN]'. It will give a dialogue saying that you have been verified.
 
 ## IF YOU ARE HAVING TROUBLE LOGGING IN OR CONNECTING WITH 2FA, TYPE '!auth [IGN]' TO THE BOT AND IT SHOULD RESOLVE ITSELF.
