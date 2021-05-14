@@ -1,4 +1,4 @@
-z---
+---
 layout: page
 title: Start Playing!
 tags: [posts Jekyll, theme, moon]
