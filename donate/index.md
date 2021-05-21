@@ -31,15 +31,10 @@ Please consider donating the server, it will make me and everyone on the team ha
 * x4 exp. boost
 * ✶ star icon
 * 2500 gold
-* custom vanity pet/item
+* 16x16 custom vanity pet
 
 ## SPONSOR [$100 USD]
 * /give
 * /spawn in VAULT
 * customize loot boost
-* 16x16 vanity pet/item
-
-## Vanities
-
-If you are tier 3, you will be able to request a custom 8x8 pet from anyone on the design team. Once it's been added, it can be bought in /vip for tier 2 & 3 donators.
-
+* 48x48 custom vanity pet
