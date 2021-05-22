@@ -41,5 +41,5 @@ Please consider enabling 2FA once you join the server. Data-leaks on other serve
 ## TROUBLESHOOTING
 There are two scenarios where people get confused with 2FA. Either in situations where they are unable to login, or they get a dialogue box saying 'Auth Required'. To resolve this, DM the bot the following:
 {% highlight yaml %}
-!auth [IGN] (e.g: !auth Runes, or !auth TitanAdmin)
+!auth [IGN]
 {% endhighlight %}
