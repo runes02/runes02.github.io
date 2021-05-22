@@ -33,7 +33,7 @@ https://runesdoma.in/dls/client.swf?env=testing
 * Click the install .swf button from above and drag -> drop it into your projector.
 
 ## TWO FACTOR AUTHENTICATION
-Please consider enabling 2FA once you join the server. Data-leaks on other servers have been more prevalent than ever, so even if you use the same details here, they cannot be accessed if you have 2FA.
+Please consider enabling 2FA once you join the server. Data-leaks on other servers have been more prevalent than ever, so even if you use the same details here, your account cannot be accessed if you have 2FA.
 * In game, do '/discordtag (your tag)' for example: I'd write mine out as '/discordtag runes#0001'.
 
 * Then DM the '2FA!' bot in the discord server this: '!verify [IGN]'. It will give a dialogue saying that you have been verified.
