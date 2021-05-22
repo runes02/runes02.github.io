@@ -33,9 +33,13 @@ https://runesdoma.in/dls/client.swf?env=testing
 * Click the install .swf button from above and drag -> drop it into your projector.
 
 ## TWO FACTOR AUTHENTICATION
-Please consider enabling 2FA once you join the server, data-leaks are more prevalent than ever and 2FA is a great extra step in doing so.
+Please consider enabling 2FA once you join the server. Data-leaks on other servers have been more prevalent than ever, so even if you use the same details here, they cannot be accessed if you have 2FA.
 * In game, do '/discordtag (your tag)' for example: I'd write mine out as '/discordtag runes#0001'.
 
 * Then DM the '2FA!' bot in the discord server this: '!verify [IGN]'. It will give a dialogue saying that you have been verified.
 
-## IF YOU ARE HAVING TROUBLE LOGGING IN OR CONNECTING WITH 2FA, TYPE '!auth [IGN]' TO THE BOT AND IT SHOULD RESOLVE ITSELF.
+## TROUBLESHOOTING
+There are two scenarios where people get confused with 2FA. Either in situations where they are unable to login, or they get a dialogue box saying 'Auth Required'. To resolve this, DM the bot the following:
+{% highlight yaml %}
+!auth [IGN] (e.g: !auth Runes, or !auth TitanAdmin)
+{% endhighlight %}
