@@ -7,7 +7,7 @@ const CONFIG = {
     bio: "I make RotMG fan projects.",
     email: "budzkevin@gmail.com",
     linkedin: "",
-    github: "runes02,
+    github: "runes02",
     instagram: "",
   },
   projects: [
