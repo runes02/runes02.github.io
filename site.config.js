@@ -2,7 +2,7 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "moonrunes",
-    image: "https://runes02.github.io/web/others/icon.gif", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "https://runes02.github.io/web/others/icon.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "developer",
     bio: "I make RotMG fan projects.",
     email: "budzkevin@gmail.com",
@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `betterSkillys`,
+      href: "https://github.com/runes02/betterSkillys",
     },
   ],
   // blog setting (required)
