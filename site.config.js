@@ -2,7 +2,7 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "moonrunes",
-    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "https://runes02.github.io/web/others/icon.gif", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "developer",
     bio: "I make RotMG fan projects.",
     email: "budzkevin@gmail.com",
@@ -18,8 +18,8 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
+    title: "moonrun.es",
+    description: "welcome to moonrun.es!",
     scheme: "dark", // 'light' | 'dark' | 'system'
   },
 
