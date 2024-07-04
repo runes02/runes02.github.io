@@ -4,7 +4,7 @@ const CONFIG = {
     name: "moonrunes",
     image: "icon.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "developer",
-    bio: "I make RotMG fan projects.",
+    bio: "avid RotMG fan-game maker.",
     email: "budzkevin@gmail.com",
     linkedin: "",
     github: "runes02",
