@@ -1,6 +1,64 @@
 <?xml version="1.0" ?>
-<Radio name="moonrunes' radio!!" description="if i used a song from X anime/game, the whole OST from said anime/game will be here.">
+<Radio name="ItA Radio!" description="If I used a song from a particular anime or game's soundtrack, then the entirety of said media's OST will be included here.">
     <Albums>
+        <Album name="CLANNAD" dir="/tracks/CLANNAD">
+            <Song index="0">Lia%20-%20%2013%20-%20Ana%20%28short%20ver.%29.mp3</Song>
+            <Song index="1">Lia%20-%20%2014%20-%20Ana%20%28full%20ver.%29.mp3</Song>
+            <Song index="2">Lia%20-%20%2015%20-%20Ana.mp3</Song>
+            <Song index="3">Maeda%20Jun%20-%20%2005%20-%20Nagisa.mp3</Song>
+            <Song index="4">Maeda%20Jun%20-%20%2005%20-%20Onaji%20Takami%20he.mp3</Song>
+            <Song index="5">Maeda%20Jun%20-%20%2006%20-%20Negai%20ga%20Kanau%20Basho.mp3</Song>
+            <Song index="6">Maeda%20Jun%20-%20%2010%20-%20Harukana%20Nengetsu%20-piano-.mp3</Song>
+            <Song index="7">Maeda%20Jun%20-%20%2012%20-%20Harukana%20Nengetsu.mp3</Song>
+            <Song index="8">Maeda%20Jun%20-%20%2013%20-%20Country%20Train.mp3</Song>
+            <Song index="9">Maeda%20Jun%20-%20%2014%20-%20Negai%20ga%20Kanau%20Basho%20II.mp3</Song>
+            <Song index="10">Maeda%20Jun%20-%20%2016%20-%20Chiisana%20Tenohira%20%28off%20vocal%20ver.%29.mp3</Song>
+            <Song index="11">Maeda%20Jun%20-%20%2016%20-%20Nagisa~Saka%20no%20Shita%20no%20Wakare.mp3</Song>
+            <Song index="12">Orito%20Shinji%20-%20%2001%20-%20Yukinohara.mp3</Song>
+            <Song index="13">Orito%20Shinji%20-%20%2002%20-%20Shionari.mp3</Song>
+            <Song index="14">Orito%20Shinji%20-%20%2002%20-%20Toufuu%20-afternoon-.mp3</Song>
+            <Song index="15">Orito%20Shinji%20-%20%2003%20-%20Shionari%20II.mp3</Song>
+            <Song index="16">Orito%20Shinji%20-%20%2003%20-%20Toufuu%20-tempo%20up-.mp3</Song>
+            <Song index="17">Orito%20Shinji%20-%20%2004%20-%20Machi%2C%20Toki%20no%20Nagare%2C%20Hito.mp3</Song>
+            <Song index="18">Orito%20Shinji%20-%20%2004%20-%20Toufuu%20-piano-.mp3</Song>
+            <Song index="19">Orito%20Shinji%20-%20%2006%20-%20Sore%20ha%20Kaze%20no%20Youni.mp3</Song>
+            <Song index="20">Orito%20Shinji%20-%20%2009%20-%20Shirotsumekusa.mp3</Song>
+            <Song index="21">Orito%20Shinji%20-%20%2010%20-%20Shiryoushitsu%20no%20Ochakai.mp3</Song>
+            <Song index="22">Orito%20Shinji%20-%20%2011%20-%20Toufuu.mp3</Song>
+            <Song index="23">Orito%20Shinji%20-%20%2014%20-%20Hibi%20no%20Itoma.mp3</Song>
+            <Song index="24">Orito%20Shinji%20-%20%2015%20-%20Dam.mp3</Song>
+            <Song index="25">Orito%20Shinji%20-%20%2016%20-%20Baka%20Futari.mp3</Song>
+            <Song index="26">Orito%20Shinji%20-%20%2017%20-%20Kaijin%20ni%20Kaesu.mp3</Song>
+            <Song index="27">Orito%20Shinji%20-%20%2018%20-%20Unused%20Track%201.mp3</Song>
+            <Song index="28">Orito%20Shinji%20-%20%2019%20-%20Tsuki%20no%20Isou.mp3</Song>
+            <Song index="29">Orito%20Shinji%20-%20%2020%20-%20Muken.mp3</Song>
+            <Song index="30">Togoshi%20Magome%20-%20%2001%20-%20Gensou%20II.mp3</Song>
+            <Song index="31">Togoshi%20Magome%20-%20%2001%20-%20Shio.mp3</Song>
+            <Song index="32">Togoshi%20Magome%20-%20%2002%20-%20Gensou.mp3</Song>
+            <Song index="33">Togoshi%20Magome%20-%20%2004%20-%20TOE.mp3</Song>
+            <Song index="34">Togoshi%20Magome%20-%20%2005%20-%20Yuuigi%20na%20Jikan%20no%20Sugoshi%20Kata%20-guitar-.mp3</Song>
+            <Song index="35">Togoshi%20Magome%20-%20%2006%20-%20Yuuigi%20na%20Jikan%20no%20Sugoshi%20Kata%20-sax-.mp3</Song>
+            <Song index="36">Togoshi%20Magome%20-%20%2007%20-%20Etude%20pour%20les%20petites%20supercordes.mp3</Song>
+            <Song index="37">Togoshi%20Magome%20-%20%2007%20-%20Sonzai%20-e.piano-.mp3</Song>
+            <Song index="38">Togoshi%20Magome%20-%20%2007%20-%20Sora%20ni%20Hikaru.mp3</Song>
+            <Song index="39">Togoshi%20Magome%20-%20%2008%20-%20Hurry%20Starfish.mp3</Song>
+            <Song index="40">Togoshi%20Magome%20-%20%2008%20-%20Sonzai%20-piano-.mp3</Song>
+            <Song index="41">Togoshi%20Magome%20-%20%2009%20-%20Kanojo%20no%20Honki.mp3</Song>
+            <Song index="42">Togoshi%20Magome%20-%20%2011%20-%20Natsujikan.mp3</Song>
+            <Song index="43">Togoshi%20Magome%20-%20%2012%20-%20Inaka%20Shoukei.mp3</Song>
+            <Song index="44">Togoshi%20Magome%20-%20%2013%20-%20Yuuigi%20na%20Jikan%20no%20Sugoshi%20Kata.mp3</Song>
+            <Song index="45">Togoshi%20Magome%20-%20%2017%20-%20-Kage%20Futatsu-%20%28off%20vocal%20ver.%29.mp3</Song>
+            <Song index="46">Togoshi%20Magome%20-%20%2018%20-%20Sonzai.mp3</Song>
+            <Song index="47">Togoshi%20Magome%20-%20%2019%20-%20Unused%20Track%202.mp3</Song>
+            <Song index="48">eufonius%20-%20%2015%20-%20Megumeru%20%28off%20vocal%20ver.%29.mp3</Song>
+            <Song index="49">riya%20-%20%2003%20-%20Megumeru.mp3</Song>
+            <Song index="50">riya%20-%20%2008%20-%20-Kage%20Futatsu-.mp3</Song>
+            <Song index="51">riya%20-%20%2009%20-%20Megumeru%20-cockool%20mix-%20%28full%20ver.%29.mp3</Song>
+            <Song index="52">riya%20-%20%2010%20-%20Megumeru%20%28short%20ver.%29.mp3</Song>
+            <Song index="53">riya%20-%20%2011%20-%20Megumeru%20-cockool%20mix-%20%28short%20ver.%29.mp3</Song>
+            <Song index="54">riya%20-%20%2012%20-%20-Kage%20Futatsu-%20%28short%20ver.%29.mp3</Song>
+            <Song index="55">riya%20-%20%2017%20-%20Chiisana%20te%20no%20Hira.mp3</Song>
+        </Album>
         <Album name="Hibike! Euphonium (S1D1)" dir="/tracks/Hibike%21%20Euphonium%20%28S1D1%29">
             <Song index="0">01%20-%20Hajimari%20no%20Senritsu.mp3</Song>
             <Song index="1">02%20-%20Oboroge%20na%20Genzai.mp3</Song>
