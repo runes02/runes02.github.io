@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<Radio name="moonrunes' radio!!" description="any show that has it's OST in Into the Abyss has been added in full here.">
+<Radio name="moonrunes' radio!!" description="if i used a song from X anime/game, the whole OST from said anime/game will be here.">
     <Albums>
         <Album name="Hibike! Euphonium (S1D1)" dir="/tracks/Hibike%21%20Euphonium%20%28S1D1%29">
             <Song index="0">01%20-%20Hajimari%20no%20Senritsu.mp3</Song>
