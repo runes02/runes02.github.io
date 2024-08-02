@@ -1,6 +1,52 @@
 <?xml version="1.0" ?>
-<Radio name="ItA Radio!" description="If I used a song from a particular anime or game's soundtrack, then the entirety of said media's OST will be included here.">
+<Radio name="Into the Abyss! Collection" description="Contains the full OST's of any anime/other piece of media that has had at least one of their songs used.">
     <Albums>
+        <Album name="Acchi Kocchi" dir="/tracks/Acchi%20Kocchi">
+            <Song index="0">01%20-%20Yokoyama%20Masaru%20-%20Acchi%20he%20Kocchi%20he.mp3</Song>
+            <Song index="1">02%20-%20Yokoyama%20Masaru%20-%20Ohayou.mp3</Song>
+            <Song index="2">03%20-%20Yokoyama%20Masaru%20-%20Piko%20Piko.mp3</Song>
+            <Song index="3">04%20-%20Yokoyama%20Masaru%20-%20Uni%20Unii%20Unii.mp3</Song>
+            <Song index="4">05%20-%20Yokoyama%20Masaru%20-%20Sarigenaku%20Sarigenaku.mp3</Song>
+            <Song index="5">06%20-%20Yokoyama%20Masaru%20-%20Fuhaa%21.mp3</Song>
+            <Song index="6">07%20-%20Yokoyama%20Masaru%20-%20Guru%20Guru%20Guru.mp3</Song>
+            <Song index="7">08%20-%20Yokoyama%20Masaru%20-%20Teretereri.mp3</Song>
+            <Song index="8">09%20-%20Yokoyama%20Masaru%20-%20Moji%20Moji.mp3</Song>
+            <Song index="9">10%20-%20Yokoyama%20Masaru%20-%20Fuka%20Fukaaaa%21%21.mp3</Song>
+            <Song index="10">11%20-%20Yokoyama%20Masaru%20-%20Goro%20Goro.mp3</Song>
+            <Song index="11">12%20-%20Yokoyama%20Masaru%20-%20Babbarituzu%21.mp3</Song>
+            <Song index="12">13%20-%20Yokoyama%20Masaru%20-%20Nyaaruu%20Hooroo.mp3</Song>
+            <Song index="13">14%20-%20Yokoyama%20Masaru%20-%20N.mp3</Song>
+            <Song index="14">15%20-%20Yokoyama%20Masaru%20-%20Yaan.mp3</Song>
+            <Song index="15">16%20-%20Yokoyama%20Masaru%20-%20Fukaaaa%21.mp3</Song>
+            <Song index="16">17%20-%20Yokoyama%20Masaru%20-%20Gogon%21%21.mp3</Song>
+            <Song index="17">18%20-%20Yokoyama%20Masaru%20-%20Piipii.mp3</Song>
+            <Song index="18">19%20-%20Yokoyama%20Masaru%20-%20Ara%20no%20de%20Acchi%20Kocchi.mp3</Song>
+            <Song index="19">20%20-%20Yokoyama%20Masaru%20-%20Gogogogogo.mp3</Song>
+            <Song index="20">21%20-%20Yokoyama%20Masaru%20-%20Yuuhi%20de%20Acchi%20Kocchi.mp3</Song>
+            <Song index="21">22%20-%20Yokoyama%20Masaru%20-%20Moku%20ni%20wa%20Choco.mp3</Song>
+            <Song index="22">23%20-%20Yokoyama%20Masaru%20-%20Fukigen%20Aura.mp3</Song>
+            <Song index="23">24%20-%20Yokoyama%20Masaru%20-%20Kabegoshi%20no%20Shougeki.mp3</Song>
+            <Song index="24">25%20-%20Yokoyama%20Masaru%20-%20Okawari%20Kenshi%20desu%21%21.mp3</Song>
+            <Song index="25">26%20-%20Yokoyama%20Masaru%20-%20Zuzaaaa.mp3</Song>
+            <Song index="26">27%20-%20Yokoyama%20Masaru%20-%201%20PLAY%200%20Yen.mp3</Song>
+            <Song index="27">28%20-%20Yokoyama%20Masaru%20-%20Battlefield.mp3</Song>
+            <Song index="28">29%20-%20Yokoyama%20Masaru%20-%20Poison.mp3</Song>
+            <Song index="29">30%20-%20Yokoyama%20Masaru%20-%20Birisosa.mp3</Song>
+            <Song index="30">31%20-%20Yokoyama%20Masaru%20-%20Shingeki%20Acchi%20Kocchi%20Sakusen.mp3</Song>
+            <Song index="31">32%20-%20Yokoyama%20Masaru%20-%20Acchi%20Kocchi%20ni%20Michibikareta%20mono%20he.mp3</Song>
+            <Song index="32">33%20-%20Yokoyama%20Masaru%20-%20Susususu....mp3</Song>
+            <Song index="33">34%20-%20Yokoyama%20Masaru%20-%20Washa%20Washa.mp3</Song>
+            <Song index="34">35%20-%20Yokoyama%20Masaru%20-%20Kocchi%20ni%20Patariko....mp3</Song>
+            <Song index="35">36%20-%20Yokoyama%20Masaru%20-%20Issho%20da%20to%20Ureshii.mp3</Song>
+            <Song index="36">37%20-%20Yokoyama%20Masaru%20-%20Kore%20de%20Ii....mp3</Song>
+            <Song index="37">38%20-%20Yokoyama%20Masaru%20-%20Sonna%20Koto%20na%20wa....mp3</Song>
+            <Song index="38">39%20-%20Yokoyama%20Masaru%20-%20Damejo.mp3</Song>
+            <Song index="39">40%20-%20Yokoyama%20Masaru%20-%20Se%2C%20Senaka%20Dattara.mp3</Song>
+            <Song index="40">41%20-%20Yokoyama%20Masaru%20-%20Pofu.mp3</Song>
+            <Song index="41">42%20-%20Yokoyama%20Masaru%20-%20Nyan%20Nyan.mp3</Song>
+            <Song index="42">43%20-%20Yokoyama%20Masaru%20-%20Housou%20Shitsu.mp3</Song>
+            <Song index="43">44%20-%20Yokoyama%20Masaru%20-%20Acchi%20Kocchi%20Youchien.mp3</Song>
+        </Album>
         <Album name="CLANNAD" dir="/tracks/CLANNAD">
             <Song index="0">Lia%20-%20%2013%20-%20Ana%20%28short%20ver.%29.mp3</Song>
             <Song index="1">Lia%20-%20%2014%20-%20Ana%20%28full%20ver.%29.mp3</Song>
@@ -140,6 +186,96 @@
             <Song index="37">38%20-%20Sudden%20storm.mp3</Song>
             <Song index="38">39%20-%20Refreshed%20by%20looking%20at%20the%20sky.mp3</Song>
             <Song index="39">40%20-%20Unaccompanied%20Cello%20Suite%20No.%201.mp3</Song>
+        </Album>
+        <Album name="Made in Abyss" dir="/tracks/Made%20in%20Abyss">
+            <Song index="0">1-01%20Made%20in%20Abyss.mp3</Song>
+            <Song index="1">1-02%20Roar%20of%20the%20Abyss.mp3</Song>
+            <Song index="2">1-03%20Beni-Kuchi-Nawa.mp3</Song>
+            <Song index="3">1-04%20Days%20in%20the%20Sun.mp3</Song>
+            <Song index="4">1-05%20Rafters.mp3</Song>
+            <Song index="5">1-06%20Treehouse.mp3</Song>
+            <Song index="6">1-07%20New%20World.mp3</Song>
+            <Song index="7">1-08%20To%20the%20Abyss%21.mp3</Song>
+            <Song index="8">1-09%20Underground%20River%20%28opening%20version%20ft.%20Raj%20Ramayya%29.mp3</Song>
+            <Song index="9">1-10%20Maul.mp3</Song>
+            <Song index="10">1-11%20Walking%20the%20Streets.mp3</Song>
+            <Song index="11">1-12%20Remembering%20Home.mp3</Song>
+            <Song index="12">1-13%20Those%20Everyday%20Feels.mp3</Song>
+            <Song index="13">1-14%202%20Months.mp3</Song>
+            <Song index="14">1-15%20Reg%20Wakes.mp3</Song>
+            <Song index="15">1-16%20Theme%20of%20Reg.mp3</Song>
+            <Song index="16">1-17%20Gallantry%20and%20Recapitulation.mp3</Song>
+            <Song index="17">1-18%20Riko%27s%20Theme.mp3</Song>
+            <Song index="18">1-19%20Swings%20and%20Roundabouts.mp3</Song>
+            <Song index="19">1-20%20Tasukete.mp3</Song>
+            <Song index="20">1-21%20Air.mp3</Song>
+            <Song index="21">1-22%20Welcome%20to%20my%20World.mp3</Song>
+            <Song index="22">1-23%20Hanezeve%20Caradhina%20%28ft.%20Takeshi%20Saito%29.mp3</Song>
+            <Song index="23">1-24%20Depths%20of%20the%20Abyss.mp3</Song>
+            <Song index="24">1-25%20Forest%20of%20the%20Abyss.mp3</Song>
+            <Song index="25">2-01%20Butterfly%20Atmospheres.mp3</Song>
+            <Song index="26">2-02%20The%20First%20Layer.mp3</Song>
+            <Song index="27">2-03%20Abyss%20of%20the%20Sea.mp3</Song>
+            <Song index="28">2-04%20Orth%20Waltz.mp3</Song>
+            <Song index="29">2-05%20Jungle%20Run.mp3</Song>
+            <Song index="30">2-06%20Crucifixion.mp3</Song>
+            <Song index="31">2-07%20Serphent%20Call.mp3</Song>
+            <Song index="32">2-08%20Outside.mp3</Song>
+            <Song index="33">2-09%20Forces%20Beyond%20Control.mp3</Song>
+            <Song index="34">2-10%20Nanachi%20in%20the%20Dark.mp3</Song>
+            <Song index="35">2-11%20Underground%20River%20%28ft.%20Raj%20Ramayya%29.mp3</Song>
+            <Song index="36">2-12%20Walking%20the%20Tightrope.mp3</Song>
+            <Song index="37">2-13%20Relinquish.mp3</Song>
+            <Song index="38">2-14%20Tour%20the%20Abyss.mp3</Song>
+            <Song index="39">2-15%20Adventure%20Through%20the%20Light.mp3</Song>
+            <Song index="40">2-16%20Classroom.mp3</Song>
+            <Song index="41">2-17%20Reg%27s%20Power.mp3</Song>
+            <Song index="42">2-18%20In%20the%20Blind.mp3</Song>
+            <Song index="43">2-19%20The%20Pit.mp3</Song>
+            <Song index="44">2-20%20Discover%20the%20Abyss.mp3</Song>
+            <Song index="45">2-21%20Vista.mp3</Song>
+            <Song index="46">2-22%20Mirage.mp3</Song>
+            <Song index="47">2-23%20Indoor%20Voices.mp3</Song>
+            <Song index="48">2-24%20Nanachi%20in%20the%20Light.mp3</Song>
+            <Song index="49">2-25%20Saber-tooth.mp3</Song>
+            <Song index="50">2-26%20Pathway.mp3</Song>
+            <Song index="51">2-27%20Tomorrow.mp3</Song>
+        </Album>
+        <Album name="Tamako Love Story" dir="/tracks/Tamako%20Love%20Story">
+            <Song index="0">01.%20Shoutengai%20No%20Nichijou%20%28cinema%20Ver.%29.mp3</Song>
+            <Song index="1">02.%20KOI%20NO%20UTA.mp3</Song>
+            <Song index="2">03.%20Kanna%20No%20Theme.mp3</Song>
+            <Song index="3">04.%20Baton%20Bu%20San%20Nin%20Musume%20No%20Theme.mp3</Song>
+            <Song index="4">05.%20Houkago.mp3</Song>
+            <Song index="5">06.%20Shiawase%20No%20Shoutengai%20%28cinema%20Ver.%29.mp3</Song>
+            <Song index="6">07.%20Koisuru%20Mochizou.mp3</Song>
+            <Song index="7">08.%20Mochizou%20No%20Keikaku.mp3</Song>
+            <Song index="8">09.%20Usayu%20Nite.mp3</Song>
+            <Song index="9">10.%20Asa%20No%20Gakkou.mp3</Song>
+            <Song index="10">11.%20Midori%20To%20Mochizou.mp3</Song>
+            <Song index="11">12.%20Kawara%20No%20Tamako%20To%20Mochizou.mp3</Song>
+            <Song index="12">13.%20Tamako%20Sakuran%20Chuu.mp3</Song>
+            <Song index="13">14.%20Yasashii%20Amefuri.mp3</Song>
+            <Song index="14">15.%20Chiisana%20Himitsu.mp3</Song>
+            <Song index="15">16.%20Gakkou%20To%20School%20Girl%20%28cinema%20Ver.%29.mp3</Song>
+            <Song index="16">17.%20Hinako%20No%20Omoide.mp3</Song>
+            <Song index="17">18.%20Uchuu%20No%20Iriguchi.mp3</Song>
+            <Song index="18">19.%20Tochan%20No%20Omochi.mp3</Song>
+            <Song index="19">20.%20Himitsu.mp3</Song>
+            <Song index="20">21.%20Himitsu.mp3</Song>
+            <Song index="21">22.%20Ojiichan%20No%20Omochi.mp3</Song>
+            <Song index="22">23.%20Osenti%20Tamako%20%28cinema%20Ver.%29.mp3</Song>
+            <Song index="23">24.%20Nakaniwa.mp3</Song>
+            <Song index="24">25.%20Koi%20No%20Arekore.mp3</Song>
+            <Song index="25">26.%20Hinako.mp3</Song>
+            <Song index="26">27.%20Tamako%20He.mp3</Song>
+            <Song index="27">28.%20Ue%20Wo%20Muite%20Arukou.mp3</Song>
+            <Song index="28">29.%20Kyoushitsu.mp3</Song>
+            <Song index="29">30.%20Midori%20No%20Theme.mp3</Song>
+            <Song index="30">31.%20Kaze%20No%20Fuku%20Saki.mp3</Song>
+            <Song index="31">32.%20Koi%20No%20Uta%20_%20Kitashirakawa%20Tamako.mp3</Song>
+            <Song index="32">33.%20Principle.mp3</Song>
+            <Song index="33">34.%20Midori%20No%20Kimochi%20%28bonus%20Track%29%20.mp3</Song>
         </Album>
     </Albums>
 </Radio>
