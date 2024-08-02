@@ -2,6 +2,22 @@ import os
 import xml.etree.ElementTree as ET
 from urllib.parse import quote
 from xml.dom import minidom
+from mutagen.easyid3 import EasyID3
+from mutagen.id3 import ID3, ID3NoHeaderError
+
+def get_mp3_metadata(mp3_path):
+    try:
+        audio = EasyID3(mp3_path)
+        title = audio.get('title', ['Unknown Title'])[0]
+        author = audio.get('artist', ['Unknown Artist'])[0]
+    except ID3NoHeaderError:
+        title = 'Unknown Title'
+        author = 'Unknown Artist'
+    except Exception as e:
+        print(f"Error reading metadata for {mp3_path}: {e}")
+        title = 'Unknown Title'
+        author = 'Unknown Artist'
+    return title, author
 
 def create_xml_from_mp3s(base_directory, radio_name, radio_description):
     # Create the root element with the Radio tag
@@ -19,8 +35,14 @@ def create_xml_from_mp3s(base_directory, radio_name, radio_description):
             mp3_files.sort()
 
             for index, mp3_file in enumerate(mp3_files):
+                mp3_path = os.path.join(folder_path, mp3_file)
                 encoded_file_name = quote(mp3_file)
-                ET.SubElement(album, "Song", index=str(index)).text = encoded_file_name
+                title, author = get_mp3_metadata(mp3_path)
+
+                song = ET.SubElement(album, "Song", index=str(index))
+                song.text = encoded_file_name
+                ET.SubElement(song, "Title").text = title
+                ET.SubElement(song, "Author").text = author
 
     xml_str = ET.tostring(radio, encoding='utf-8', method='xml')
     pretty_xml_str = minidom.parseString(xml_str).toprettyxml(indent="    ")

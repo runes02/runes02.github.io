@@ -2,280 +2,1336 @@
 <Radio name="Into the Abyss! Collection" description="Contains the full OST's of any anime/other piece of media that has had at least one of their songs used.">
     <Albums>
         <Album name="Acchi Kocchi" dir="/tracks/Acchi%20Kocchi">
-            <Song index="0">01%20-%20Yokoyama%20Masaru%20-%20Acchi%20he%20Kocchi%20he.mp3</Song>
-            <Song index="1">02%20-%20Yokoyama%20Masaru%20-%20Ohayou.mp3</Song>
-            <Song index="2">03%20-%20Yokoyama%20Masaru%20-%20Piko%20Piko.mp3</Song>
-            <Song index="3">04%20-%20Yokoyama%20Masaru%20-%20Uni%20Unii%20Unii.mp3</Song>
-            <Song index="4">05%20-%20Yokoyama%20Masaru%20-%20Sarigenaku%20Sarigenaku.mp3</Song>
-            <Song index="5">06%20-%20Yokoyama%20Masaru%20-%20Fuhaa%21.mp3</Song>
-            <Song index="6">07%20-%20Yokoyama%20Masaru%20-%20Guru%20Guru%20Guru.mp3</Song>
-            <Song index="7">08%20-%20Yokoyama%20Masaru%20-%20Teretereri.mp3</Song>
-            <Song index="8">09%20-%20Yokoyama%20Masaru%20-%20Moji%20Moji.mp3</Song>
-            <Song index="9">10%20-%20Yokoyama%20Masaru%20-%20Fuka%20Fukaaaa%21%21.mp3</Song>
-            <Song index="10">11%20-%20Yokoyama%20Masaru%20-%20Goro%20Goro.mp3</Song>
-            <Song index="11">12%20-%20Yokoyama%20Masaru%20-%20Babbarituzu%21.mp3</Song>
-            <Song index="12">13%20-%20Yokoyama%20Masaru%20-%20Nyaaruu%20Hooroo.mp3</Song>
-            <Song index="13">14%20-%20Yokoyama%20Masaru%20-%20N.mp3</Song>
-            <Song index="14">15%20-%20Yokoyama%20Masaru%20-%20Yaan.mp3</Song>
-            <Song index="15">16%20-%20Yokoyama%20Masaru%20-%20Fukaaaa%21.mp3</Song>
-            <Song index="16">17%20-%20Yokoyama%20Masaru%20-%20Gogon%21%21.mp3</Song>
-            <Song index="17">18%20-%20Yokoyama%20Masaru%20-%20Piipii.mp3</Song>
-            <Song index="18">19%20-%20Yokoyama%20Masaru%20-%20Ara%20no%20de%20Acchi%20Kocchi.mp3</Song>
-            <Song index="19">20%20-%20Yokoyama%20Masaru%20-%20Gogogogogo.mp3</Song>
-            <Song index="20">21%20-%20Yokoyama%20Masaru%20-%20Yuuhi%20de%20Acchi%20Kocchi.mp3</Song>
-            <Song index="21">22%20-%20Yokoyama%20Masaru%20-%20Moku%20ni%20wa%20Choco.mp3</Song>
-            <Song index="22">23%20-%20Yokoyama%20Masaru%20-%20Fukigen%20Aura.mp3</Song>
-            <Song index="23">24%20-%20Yokoyama%20Masaru%20-%20Kabegoshi%20no%20Shougeki.mp3</Song>
-            <Song index="24">25%20-%20Yokoyama%20Masaru%20-%20Okawari%20Kenshi%20desu%21%21.mp3</Song>
-            <Song index="25">26%20-%20Yokoyama%20Masaru%20-%20Zuzaaaa.mp3</Song>
-            <Song index="26">27%20-%20Yokoyama%20Masaru%20-%201%20PLAY%200%20Yen.mp3</Song>
-            <Song index="27">28%20-%20Yokoyama%20Masaru%20-%20Battlefield.mp3</Song>
-            <Song index="28">29%20-%20Yokoyama%20Masaru%20-%20Poison.mp3</Song>
-            <Song index="29">30%20-%20Yokoyama%20Masaru%20-%20Birisosa.mp3</Song>
-            <Song index="30">31%20-%20Yokoyama%20Masaru%20-%20Shingeki%20Acchi%20Kocchi%20Sakusen.mp3</Song>
-            <Song index="31">32%20-%20Yokoyama%20Masaru%20-%20Acchi%20Kocchi%20ni%20Michibikareta%20mono%20he.mp3</Song>
-            <Song index="32">33%20-%20Yokoyama%20Masaru%20-%20Susususu....mp3</Song>
-            <Song index="33">34%20-%20Yokoyama%20Masaru%20-%20Washa%20Washa.mp3</Song>
-            <Song index="34">35%20-%20Yokoyama%20Masaru%20-%20Kocchi%20ni%20Patariko....mp3</Song>
-            <Song index="35">36%20-%20Yokoyama%20Masaru%20-%20Issho%20da%20to%20Ureshii.mp3</Song>
-            <Song index="36">37%20-%20Yokoyama%20Masaru%20-%20Kore%20de%20Ii....mp3</Song>
-            <Song index="37">38%20-%20Yokoyama%20Masaru%20-%20Sonna%20Koto%20na%20wa....mp3</Song>
-            <Song index="38">39%20-%20Yokoyama%20Masaru%20-%20Damejo.mp3</Song>
-            <Song index="39">40%20-%20Yokoyama%20Masaru%20-%20Se%2C%20Senaka%20Dattara.mp3</Song>
-            <Song index="40">41%20-%20Yokoyama%20Masaru%20-%20Pofu.mp3</Song>
-            <Song index="41">42%20-%20Yokoyama%20Masaru%20-%20Nyan%20Nyan.mp3</Song>
-            <Song index="42">43%20-%20Yokoyama%20Masaru%20-%20Housou%20Shitsu.mp3</Song>
-            <Song index="43">44%20-%20Yokoyama%20Masaru%20-%20Acchi%20Kocchi%20Youchien.mp3</Song>
+            <Song index="0">
+                01%20-%20Yokoyama%20Masaru%20-%20Acchi%20he%20Kocchi%20he.mp3
+                <Title>Acchi he Kocchi he</Title>
+                <Author>Yokoyama Masaru</Author>
+            </Song>
+            <Song index="1">
+                02%20-%20Yokoyama%20Masaru%20-%20Ohayou.mp3
+                <Title>Ohayou</Title>
+                <Author>Yokoyama Masaru</Author>
+            </Song>
+            <Song index="2">
+                03%20-%20Yokoyama%20Masaru%20-%20Piko%20Piko.mp3
+                <Title>Piko Piko</Title>
+                <Author>Yokoyama Masaru</Author>
+            </Song>
+            <Song index="3">
+                04%20-%20Yokoyama%20Masaru%20-%20Uni%20Unii%20Unii.mp3
+                <Title>Uni Unii Unii</Title>
+                <Author>Yokoyama Masaru</Author>
+            </Song>
+            <Song index="4">
+                05%20-%20Yokoyama%20Masaru%20-%20Sarigenaku%20Sarigenaku.mp3
+                <Title>Sarigenaku Sarigenaku</Title>
+                <Author>Yokoyama Masaru</Author>
+            </Song>
+            <Song index="5">
+                06%20-%20Yokoyama%20Masaru%20-%20Fuhaa%21.mp3
+                <Title>Fuhaa!?</Title>
+                <Author>Yokoyama Masaru</Author>
+            </Song>
+            <Song index="6">
+                07%20-%20Yokoyama%20Masaru%20-%20Guru%20Guru%20Guru.mp3
+                <Title>Guru Guru Guru</Title>
+                <Author>Yokoyama Masaru</Author>
+            </Song>
+            <Song index="7">
+                08%20-%20Yokoyama%20Masaru%20-%20Teretereri.mp3
+                <Title>Teretereri</Title>
+                <Author>Yokoyama Masaru</Author>
+            </Song>
+            <Song index="8">
+                09%20-%20Yokoyama%20Masaru%20-%20Moji%20Moji.mp3
+                <Title>Moji Moji</Title>
+                <Author>Yokoyama Masaru</Author>
+            </Song>
+            <Song index="9">
+                10%20-%20Yokoyama%20Masaru%20-%20Fuka%20Fukaaaa%21%21.mp3
+                <Title>Fuka Fukaaaa!!</Title>
+                <Author>Yokoyama Masaru</Author>
+            </Song>
+            <Song index="10">
+                11%20-%20Yokoyama%20Masaru%20-%20Goro%20Goro.mp3
+                <Title>Goro Goro</Title>
+                <Author>Yokoyama Masaru</Author>
+            </Song>
+            <Song index="11">
+                12%20-%20Yokoyama%20Masaru%20-%20Babbarituzu%21.mp3
+                <Title>Babbarituzu!?</Title>
+                <Author>Yokoyama Masaru</Author>
+            </Song>
+            <Song index="12">
+                13%20-%20Yokoyama%20Masaru%20-%20Nyaaruu%20Hooroo.mp3
+                <Title>Nyaaruu Hooroo</Title>
+                <Author>Yokoyama Masaru</Author>
+            </Song>
+            <Song index="13">
+                14%20-%20Yokoyama%20Masaru%20-%20N.mp3
+                <Title>N</Title>
+                <Author>Yokoyama Masaru</Author>
+            </Song>
+            <Song index="14">
+                15%20-%20Yokoyama%20Masaru%20-%20Yaan.mp3
+                <Title>Yaan</Title>
+                <Author>Yokoyama Masaru</Author>
+            </Song>
+            <Song index="15">
+                16%20-%20Yokoyama%20Masaru%20-%20Fukaaaa%21.mp3
+                <Title>Fukaaaa!?</Title>
+                <Author>Yokoyama Masaru</Author>
+            </Song>
+            <Song index="16">
+                17%20-%20Yokoyama%20Masaru%20-%20Gogon%21%21.mp3
+                <Title>Gogon!!</Title>
+                <Author>Yokoyama Masaru</Author>
+            </Song>
+            <Song index="17">
+                18%20-%20Yokoyama%20Masaru%20-%20Piipii.mp3
+                <Title>Piipii</Title>
+                <Author>Yokoyama Masaru</Author>
+            </Song>
+            <Song index="18">
+                19%20-%20Yokoyama%20Masaru%20-%20Ara%20no%20de%20Acchi%20Kocchi.mp3
+                <Title>Ara no de Acchi Kocchi</Title>
+                <Author>Yokoyama Masaru</Author>
+            </Song>
+            <Song index="19">
+                20%20-%20Yokoyama%20Masaru%20-%20Gogogogogo.mp3
+                <Title>Gogogogogo</Title>
+                <Author>Yokoyama Masaru</Author>
+            </Song>
+            <Song index="20">
+                21%20-%20Yokoyama%20Masaru%20-%20Yuuhi%20de%20Acchi%20Kocchi.mp3
+                <Title>Yuuhi de Acchi Kocchi</Title>
+                <Author>Yokoyama Masaru</Author>
+            </Song>
+            <Song index="21">
+                22%20-%20Yokoyama%20Masaru%20-%20Moku%20ni%20wa%20Choco.mp3
+                <Title>Moku ni wa Choco</Title>
+                <Author>Yokoyama Masaru</Author>
+            </Song>
+            <Song index="22">
+                23%20-%20Yokoyama%20Masaru%20-%20Fukigen%20Aura.mp3
+                <Title>Fukigen Aura</Title>
+                <Author>Yokoyama Masaru</Author>
+            </Song>
+            <Song index="23">
+                24%20-%20Yokoyama%20Masaru%20-%20Kabegoshi%20no%20Shougeki.mp3
+                <Title>Kabegoshi no Shougeki</Title>
+                <Author>Yokoyama Masaru</Author>
+            </Song>
+            <Song index="24">
+                25%20-%20Yokoyama%20Masaru%20-%20Okawari%20Kenshi%20desu%21%21.mp3
+                <Title>Okawari Kenshi desu!!</Title>
+                <Author>Yokoyama Masaru</Author>
+            </Song>
+            <Song index="25">
+                26%20-%20Yokoyama%20Masaru%20-%20Zuzaaaa.mp3
+                <Title>Zuzaaaa</Title>
+                <Author>Yokoyama Masaru</Author>
+            </Song>
+            <Song index="26">
+                27%20-%20Yokoyama%20Masaru%20-%201%20PLAY%200%20Yen.mp3
+                <Title>1 PLAY 0 Yen</Title>
+                <Author>Yokoyama Masaru</Author>
+            </Song>
+            <Song index="27">
+                28%20-%20Yokoyama%20Masaru%20-%20Battlefield.mp3
+                <Title>Battlefield</Title>
+                <Author>Yokoyama Masaru</Author>
+            </Song>
+            <Song index="28">
+                29%20-%20Yokoyama%20Masaru%20-%20Poison.mp3
+                <Title>Poison</Title>
+                <Author>Yokoyama Masaru</Author>
+            </Song>
+            <Song index="29">
+                30%20-%20Yokoyama%20Masaru%20-%20Birisosa.mp3
+                <Title>Birisosa</Title>
+                <Author>Yokoyama Masaru</Author>
+            </Song>
+            <Song index="30">
+                31%20-%20Yokoyama%20Masaru%20-%20Shingeki%20Acchi%20Kocchi%20Sakusen.mp3
+                <Title>Shingeki Acchi Kocchi Sakusen</Title>
+                <Author>Yokoyama Masaru</Author>
+            </Song>
+            <Song index="31">
+                32%20-%20Yokoyama%20Masaru%20-%20Acchi%20Kocchi%20ni%20Michibikareta%20mono%20he.mp3
+                <Title>Acchi Kocchi ni Michibikareta mono he</Title>
+                <Author>Yokoyama Masaru</Author>
+            </Song>
+            <Song index="32">
+                33%20-%20Yokoyama%20Masaru%20-%20Susususu....mp3
+                <Title>Susususu...</Title>
+                <Author>Yokoyama Masaru</Author>
+            </Song>
+            <Song index="33">
+                34%20-%20Yokoyama%20Masaru%20-%20Washa%20Washa.mp3
+                <Title>Washa Washa</Title>
+                <Author>Yokoyama Masaru</Author>
+            </Song>
+            <Song index="34">
+                35%20-%20Yokoyama%20Masaru%20-%20Kocchi%20ni%20Patariko....mp3
+                <Title>Kocchi ni Patariko...</Title>
+                <Author>Yokoyama Masaru</Author>
+            </Song>
+            <Song index="35">
+                36%20-%20Yokoyama%20Masaru%20-%20Issho%20da%20to%20Ureshii.mp3
+                <Title>Issho da to Ureshii</Title>
+                <Author>Yokoyama Masaru</Author>
+            </Song>
+            <Song index="36">
+                37%20-%20Yokoyama%20Masaru%20-%20Kore%20de%20Ii....mp3
+                <Title>Kore de Ii...</Title>
+                <Author>Yokoyama Masaru</Author>
+            </Song>
+            <Song index="37">
+                38%20-%20Yokoyama%20Masaru%20-%20Sonna%20Koto%20na%20wa....mp3
+                <Title>Sonna Koto na wa...</Title>
+                <Author>Yokoyama Masaru</Author>
+            </Song>
+            <Song index="38">
+                39%20-%20Yokoyama%20Masaru%20-%20Damejo.mp3
+                <Title>Damejo</Title>
+                <Author>Yokoyama Masaru</Author>
+            </Song>
+            <Song index="39">
+                40%20-%20Yokoyama%20Masaru%20-%20Se%2C%20Senaka%20Dattara.mp3
+                <Title>Se, Senaka Dattara</Title>
+                <Author>Yokoyama Masaru</Author>
+            </Song>
+            <Song index="40">
+                41%20-%20Yokoyama%20Masaru%20-%20Pofu.mp3
+                <Title>Pofu</Title>
+                <Author>Yokoyama Masaru</Author>
+            </Song>
+            <Song index="41">
+                42%20-%20Yokoyama%20Masaru%20-%20Nyan%20Nyan.mp3
+                <Title>Nyan Nyan</Title>
+                <Author>Yokoyama Masaru</Author>
+            </Song>
+            <Song index="42">
+                43%20-%20Yokoyama%20Masaru%20-%20Housou%20Shitsu.mp3
+                <Title>Housou Shitsu</Title>
+                <Author>Yokoyama Masaru</Author>
+            </Song>
+            <Song index="43">
+                44%20-%20Yokoyama%20Masaru%20-%20Acchi%20Kocchi%20Youchien.mp3
+                <Title>Acchi Kocchi Youchien</Title>
+                <Author>Yokoyama Masaru</Author>
+            </Song>
         </Album>
         <Album name="CLANNAD" dir="/tracks/CLANNAD">
-            <Song index="0">Lia%20-%20%2013%20-%20Ana%20%28short%20ver.%29.mp3</Song>
-            <Song index="1">Lia%20-%20%2014%20-%20Ana%20%28full%20ver.%29.mp3</Song>
-            <Song index="2">Lia%20-%20%2015%20-%20Ana.mp3</Song>
-            <Song index="3">Maeda%20Jun%20-%20%2005%20-%20Nagisa.mp3</Song>
-            <Song index="4">Maeda%20Jun%20-%20%2005%20-%20Onaji%20Takami%20he.mp3</Song>
-            <Song index="5">Maeda%20Jun%20-%20%2006%20-%20Negai%20ga%20Kanau%20Basho.mp3</Song>
-            <Song index="6">Maeda%20Jun%20-%20%2010%20-%20Harukana%20Nengetsu%20-piano-.mp3</Song>
-            <Song index="7">Maeda%20Jun%20-%20%2012%20-%20Harukana%20Nengetsu.mp3</Song>
-            <Song index="8">Maeda%20Jun%20-%20%2013%20-%20Country%20Train.mp3</Song>
-            <Song index="9">Maeda%20Jun%20-%20%2014%20-%20Negai%20ga%20Kanau%20Basho%20II.mp3</Song>
-            <Song index="10">Maeda%20Jun%20-%20%2016%20-%20Chiisana%20Tenohira%20%28off%20vocal%20ver.%29.mp3</Song>
-            <Song index="11">Maeda%20Jun%20-%20%2016%20-%20Nagisa~Saka%20no%20Shita%20no%20Wakare.mp3</Song>
-            <Song index="12">Orito%20Shinji%20-%20%2001%20-%20Yukinohara.mp3</Song>
-            <Song index="13">Orito%20Shinji%20-%20%2002%20-%20Shionari.mp3</Song>
-            <Song index="14">Orito%20Shinji%20-%20%2002%20-%20Toufuu%20-afternoon-.mp3</Song>
-            <Song index="15">Orito%20Shinji%20-%20%2003%20-%20Shionari%20II.mp3</Song>
-            <Song index="16">Orito%20Shinji%20-%20%2003%20-%20Toufuu%20-tempo%20up-.mp3</Song>
-            <Song index="17">Orito%20Shinji%20-%20%2004%20-%20Machi%2C%20Toki%20no%20Nagare%2C%20Hito.mp3</Song>
-            <Song index="18">Orito%20Shinji%20-%20%2004%20-%20Toufuu%20-piano-.mp3</Song>
-            <Song index="19">Orito%20Shinji%20-%20%2006%20-%20Sore%20ha%20Kaze%20no%20Youni.mp3</Song>
-            <Song index="20">Orito%20Shinji%20-%20%2009%20-%20Shirotsumekusa.mp3</Song>
-            <Song index="21">Orito%20Shinji%20-%20%2010%20-%20Shiryoushitsu%20no%20Ochakai.mp3</Song>
-            <Song index="22">Orito%20Shinji%20-%20%2011%20-%20Toufuu.mp3</Song>
-            <Song index="23">Orito%20Shinji%20-%20%2014%20-%20Hibi%20no%20Itoma.mp3</Song>
-            <Song index="24">Orito%20Shinji%20-%20%2015%20-%20Dam.mp3</Song>
-            <Song index="25">Orito%20Shinji%20-%20%2016%20-%20Baka%20Futari.mp3</Song>
-            <Song index="26">Orito%20Shinji%20-%20%2017%20-%20Kaijin%20ni%20Kaesu.mp3</Song>
-            <Song index="27">Orito%20Shinji%20-%20%2018%20-%20Unused%20Track%201.mp3</Song>
-            <Song index="28">Orito%20Shinji%20-%20%2019%20-%20Tsuki%20no%20Isou.mp3</Song>
-            <Song index="29">Orito%20Shinji%20-%20%2020%20-%20Muken.mp3</Song>
-            <Song index="30">Togoshi%20Magome%20-%20%2001%20-%20Gensou%20II.mp3</Song>
-            <Song index="31">Togoshi%20Magome%20-%20%2001%20-%20Shio.mp3</Song>
-            <Song index="32">Togoshi%20Magome%20-%20%2002%20-%20Gensou.mp3</Song>
-            <Song index="33">Togoshi%20Magome%20-%20%2004%20-%20TOE.mp3</Song>
-            <Song index="34">Togoshi%20Magome%20-%20%2005%20-%20Yuuigi%20na%20Jikan%20no%20Sugoshi%20Kata%20-guitar-.mp3</Song>
-            <Song index="35">Togoshi%20Magome%20-%20%2006%20-%20Yuuigi%20na%20Jikan%20no%20Sugoshi%20Kata%20-sax-.mp3</Song>
-            <Song index="36">Togoshi%20Magome%20-%20%2007%20-%20Etude%20pour%20les%20petites%20supercordes.mp3</Song>
-            <Song index="37">Togoshi%20Magome%20-%20%2007%20-%20Sonzai%20-e.piano-.mp3</Song>
-            <Song index="38">Togoshi%20Magome%20-%20%2007%20-%20Sora%20ni%20Hikaru.mp3</Song>
-            <Song index="39">Togoshi%20Magome%20-%20%2008%20-%20Hurry%20Starfish.mp3</Song>
-            <Song index="40">Togoshi%20Magome%20-%20%2008%20-%20Sonzai%20-piano-.mp3</Song>
-            <Song index="41">Togoshi%20Magome%20-%20%2009%20-%20Kanojo%20no%20Honki.mp3</Song>
-            <Song index="42">Togoshi%20Magome%20-%20%2011%20-%20Natsujikan.mp3</Song>
-            <Song index="43">Togoshi%20Magome%20-%20%2012%20-%20Inaka%20Shoukei.mp3</Song>
-            <Song index="44">Togoshi%20Magome%20-%20%2013%20-%20Yuuigi%20na%20Jikan%20no%20Sugoshi%20Kata.mp3</Song>
-            <Song index="45">Togoshi%20Magome%20-%20%2017%20-%20-Kage%20Futatsu-%20%28off%20vocal%20ver.%29.mp3</Song>
-            <Song index="46">Togoshi%20Magome%20-%20%2018%20-%20Sonzai.mp3</Song>
-            <Song index="47">Togoshi%20Magome%20-%20%2019%20-%20Unused%20Track%202.mp3</Song>
-            <Song index="48">eufonius%20-%20%2015%20-%20Megumeru%20%28off%20vocal%20ver.%29.mp3</Song>
-            <Song index="49">riya%20-%20%2003%20-%20Megumeru.mp3</Song>
-            <Song index="50">riya%20-%20%2008%20-%20-Kage%20Futatsu-.mp3</Song>
-            <Song index="51">riya%20-%20%2009%20-%20Megumeru%20-cockool%20mix-%20%28full%20ver.%29.mp3</Song>
-            <Song index="52">riya%20-%20%2010%20-%20Megumeru%20%28short%20ver.%29.mp3</Song>
-            <Song index="53">riya%20-%20%2011%20-%20Megumeru%20-cockool%20mix-%20%28short%20ver.%29.mp3</Song>
-            <Song index="54">riya%20-%20%2012%20-%20-Kage%20Futatsu-%20%28short%20ver.%29.mp3</Song>
-            <Song index="55">riya%20-%20%2017%20-%20Chiisana%20te%20no%20Hira.mp3</Song>
+            <Song index="0">
+                Lia%20-%20%2013%20-%20Ana%20%28short%20ver.%29.mp3
+                <Title>Ana (short ver.)</Title>
+                <Author>Lia</Author>
+            </Song>
+            <Song index="1">
+                Lia%20-%20%2014%20-%20Ana%20%28full%20ver.%29.mp3
+                <Title>Ana (full ver.)</Title>
+                <Author>Lia</Author>
+            </Song>
+            <Song index="2">
+                Lia%20-%20%2015%20-%20Ana.mp3
+                <Title>Ana</Title>
+                <Author>Lia</Author>
+            </Song>
+            <Song index="3">
+                Maeda%20Jun%20-%20%2005%20-%20Nagisa.mp3
+                <Title>Nagisa</Title>
+                <Author>Maeda Jun</Author>
+            </Song>
+            <Song index="4">
+                Maeda%20Jun%20-%20%2005%20-%20Onaji%20Takami%20he.mp3
+                <Title>Onaji Takami he</Title>
+                <Author>Maeda Jun</Author>
+            </Song>
+            <Song index="5">
+                Maeda%20Jun%20-%20%2006%20-%20Negai%20ga%20Kanau%20Basho.mp3
+                <Title>Negai ga Kanau Basho</Title>
+                <Author>Maeda Jun</Author>
+            </Song>
+            <Song index="6">
+                Maeda%20Jun%20-%20%2010%20-%20Harukana%20Nengetsu%20-piano-.mp3
+                <Title>Harukana Nengetsu -piano-</Title>
+                <Author>Maeda Jun</Author>
+            </Song>
+            <Song index="7">
+                Maeda%20Jun%20-%20%2012%20-%20Harukana%20Nengetsu.mp3
+                <Title>Harukana Nengetsu</Title>
+                <Author>Maeda Jun</Author>
+            </Song>
+            <Song index="8">
+                Maeda%20Jun%20-%20%2013%20-%20Country%20Train.mp3
+                <Title>Country Train</Title>
+                <Author>Maeda Jun</Author>
+            </Song>
+            <Song index="9">
+                Maeda%20Jun%20-%20%2014%20-%20Negai%20ga%20Kanau%20Basho%20II.mp3
+                <Title>Negai ga Kanau Basho II</Title>
+                <Author>Maeda Jun</Author>
+            </Song>
+            <Song index="10">
+                Maeda%20Jun%20-%20%2016%20-%20Chiisana%20Tenohira%20%28off%20vocal%20ver.%29.mp3
+                <Title>Chiisana Tenohira (off vocal ver.)</Title>
+                <Author>Maeda Jun</Author>
+            </Song>
+            <Song index="11">
+                Maeda%20Jun%20-%20%2016%20-%20Nagisa~Saka%20no%20Shita%20no%20Wakare.mp3
+                <Title>Nagisa~Saka no Shita no Wakare</Title>
+                <Author>Maeda Jun</Author>
+            </Song>
+            <Song index="12">
+                Orito%20Shinji%20-%20%2001%20-%20Yukinohara.mp3
+                <Title>Yukinohara</Title>
+                <Author>Orito Shinji</Author>
+            </Song>
+            <Song index="13">
+                Orito%20Shinji%20-%20%2002%20-%20Shionari.mp3
+                <Title>Shionari</Title>
+                <Author>Orito Shinji</Author>
+            </Song>
+            <Song index="14">
+                Orito%20Shinji%20-%20%2002%20-%20Toufuu%20-afternoon-.mp3
+                <Title>Toufuu -afternoon-</Title>
+                <Author>Orito Shinji</Author>
+            </Song>
+            <Song index="15">
+                Orito%20Shinji%20-%20%2003%20-%20Shionari%20II.mp3
+                <Title>Shionari II</Title>
+                <Author>Orito Shinji</Author>
+            </Song>
+            <Song index="16">
+                Orito%20Shinji%20-%20%2003%20-%20Toufuu%20-tempo%20up-.mp3
+                <Title>Toufuu -tempo up-</Title>
+                <Author>Orito Shinji</Author>
+            </Song>
+            <Song index="17">
+                Orito%20Shinji%20-%20%2004%20-%20Machi%2C%20Toki%20no%20Nagare%2C%20Hito.mp3
+                <Title>Machi, Toki no Nagare, Hito</Title>
+                <Author>Orito Shinji</Author>
+            </Song>
+            <Song index="18">
+                Orito%20Shinji%20-%20%2004%20-%20Toufuu%20-piano-.mp3
+                <Title>Toufuu -piano-</Title>
+                <Author>Orito Shinji</Author>
+            </Song>
+            <Song index="19">
+                Orito%20Shinji%20-%20%2006%20-%20Sore%20ha%20Kaze%20no%20Youni.mp3
+                <Title>Sore ha Kaze no Youni</Title>
+                <Author>Orito Shinji</Author>
+            </Song>
+            <Song index="20">
+                Orito%20Shinji%20-%20%2009%20-%20Shirotsumekusa.mp3
+                <Title>Shirotsumekusa</Title>
+                <Author>Orito Shinji</Author>
+            </Song>
+            <Song index="21">
+                Orito%20Shinji%20-%20%2010%20-%20Shiryoushitsu%20no%20Ochakai.mp3
+                <Title>Shiryoushitsu no Ochakai</Title>
+                <Author>Orito Shinji</Author>
+            </Song>
+            <Song index="22">
+                Orito%20Shinji%20-%20%2011%20-%20Toufuu.mp3
+                <Title>Toufuu</Title>
+                <Author>Orito Shinji</Author>
+            </Song>
+            <Song index="23">
+                Orito%20Shinji%20-%20%2014%20-%20Hibi%20no%20Itoma.mp3
+                <Title>Hibi no Itoma</Title>
+                <Author>Orito Shinji</Author>
+            </Song>
+            <Song index="24">
+                Orito%20Shinji%20-%20%2015%20-%20Dam.mp3
+                <Title>Dam</Title>
+                <Author>Orito Shinji</Author>
+            </Song>
+            <Song index="25">
+                Orito%20Shinji%20-%20%2016%20-%20Baka%20Futari.mp3
+                <Title>Baka Futari</Title>
+                <Author>Orito Shinji</Author>
+            </Song>
+            <Song index="26">
+                Orito%20Shinji%20-%20%2017%20-%20Kaijin%20ni%20Kaesu.mp3
+                <Title>Kaijin ni Kaesu</Title>
+                <Author>Orito Shinji</Author>
+            </Song>
+            <Song index="27">
+                Orito%20Shinji%20-%20%2018%20-%20Unused%20Track%201.mp3
+                <Title>Unused Track 1</Title>
+                <Author>Orito Shinji</Author>
+            </Song>
+            <Song index="28">
+                Orito%20Shinji%20-%20%2019%20-%20Tsuki%20no%20Isou.mp3
+                <Title>Tsuki no Isou</Title>
+                <Author>Orito Shinji</Author>
+            </Song>
+            <Song index="29">
+                Orito%20Shinji%20-%20%2020%20-%20Muken.mp3
+                <Title>Muken</Title>
+                <Author>Orito Shinji</Author>
+            </Song>
+            <Song index="30">
+                Togoshi%20Magome%20-%20%2001%20-%20Gensou%20II.mp3
+                <Title>Gensou II</Title>
+                <Author>Togoshi Magome</Author>
+            </Song>
+            <Song index="31">
+                Togoshi%20Magome%20-%20%2001%20-%20Shio.mp3
+                <Title>Shio</Title>
+                <Author>Togoshi Magome</Author>
+            </Song>
+            <Song index="32">
+                Togoshi%20Magome%20-%20%2002%20-%20Gensou.mp3
+                <Title>Gensou</Title>
+                <Author>Togoshi Magome</Author>
+            </Song>
+            <Song index="33">
+                Togoshi%20Magome%20-%20%2004%20-%20TOE.mp3
+                <Title>TOE</Title>
+                <Author>Togoshi Magome</Author>
+            </Song>
+            <Song index="34">
+                Togoshi%20Magome%20-%20%2005%20-%20Yuuigi%20na%20Jikan%20no%20Sugoshi%20Kata%20-guitar-.mp3
+                <Title>Yuuigi na Jikan no Sugoshi Kata -guitar-</Title>
+                <Author>Togoshi Magome</Author>
+            </Song>
+            <Song index="35">
+                Togoshi%20Magome%20-%20%2006%20-%20Yuuigi%20na%20Jikan%20no%20Sugoshi%20Kata%20-sax-.mp3
+                <Title>Yuuigi na Jikan no Sugoshi Kata -sax-</Title>
+                <Author>Togoshi Magome</Author>
+            </Song>
+            <Song index="36">
+                Togoshi%20Magome%20-%20%2007%20-%20Etude%20pour%20les%20petites%20supercordes.mp3
+                <Title>Etude pour les petites supercordes</Title>
+                <Author>Togoshi Magome</Author>
+            </Song>
+            <Song index="37">
+                Togoshi%20Magome%20-%20%2007%20-%20Sonzai%20-e.piano-.mp3
+                <Title>Sonzai -e.piano-</Title>
+                <Author>Togoshi Magome</Author>
+            </Song>
+            <Song index="38">
+                Togoshi%20Magome%20-%20%2007%20-%20Sora%20ni%20Hikaru.mp3
+                <Title>Sora ni Hikaru</Title>
+                <Author>Togoshi Magome</Author>
+            </Song>
+            <Song index="39">
+                Togoshi%20Magome%20-%20%2008%20-%20Hurry%20Starfish.mp3
+                <Title>Hurry Starfish</Title>
+                <Author>Togoshi Magome</Author>
+            </Song>
+            <Song index="40">
+                Togoshi%20Magome%20-%20%2008%20-%20Sonzai%20-piano-.mp3
+                <Title>Sonzai -piano-</Title>
+                <Author>Togoshi Magome</Author>
+            </Song>
+            <Song index="41">
+                Togoshi%20Magome%20-%20%2009%20-%20Kanojo%20no%20Honki.mp3
+                <Title>Kanojo no Honki</Title>
+                <Author>Togoshi Magome</Author>
+            </Song>
+            <Song index="42">
+                Togoshi%20Magome%20-%20%2011%20-%20Natsujikan.mp3
+                <Title>Natsujikan</Title>
+                <Author>Togoshi Magome</Author>
+            </Song>
+            <Song index="43">
+                Togoshi%20Magome%20-%20%2012%20-%20Inaka%20Shoukei.mp3
+                <Title>Inaka Shoukei</Title>
+                <Author>Togoshi Magome</Author>
+            </Song>
+            <Song index="44">
+                Togoshi%20Magome%20-%20%2013%20-%20Yuuigi%20na%20Jikan%20no%20Sugoshi%20Kata.mp3
+                <Title>Yuuigi na Jikan no Sugoshi Kata</Title>
+                <Author>Togoshi Magome</Author>
+            </Song>
+            <Song index="45">
+                Togoshi%20Magome%20-%20%2017%20-%20-Kage%20Futatsu-%20%28off%20vocal%20ver.%29.mp3
+                <Title>-Kage Futatsu- (off vocal ver.)</Title>
+                <Author>Togoshi Magome</Author>
+            </Song>
+            <Song index="46">
+                Togoshi%20Magome%20-%20%2018%20-%20Sonzai.mp3
+                <Title>Sonzai</Title>
+                <Author>Togoshi Magome</Author>
+            </Song>
+            <Song index="47">
+                Togoshi%20Magome%20-%20%2019%20-%20Unused%20Track%202.mp3
+                <Title>Unused Track 2</Title>
+                <Author>Togoshi Magome</Author>
+            </Song>
+            <Song index="48">
+                eufonius%20-%20%2015%20-%20Megumeru%20%28off%20vocal%20ver.%29.mp3
+                <Title>Megumeru (off vocal ver.)</Title>
+                <Author>eufonius</Author>
+            </Song>
+            <Song index="49">
+                riya%20-%20%2003%20-%20Megumeru.mp3
+                <Title>Megumeru</Title>
+                <Author>riya</Author>
+            </Song>
+            <Song index="50">
+                riya%20-%20%2008%20-%20-Kage%20Futatsu-.mp3
+                <Title>-Kage Futatsu-</Title>
+                <Author>riya</Author>
+            </Song>
+            <Song index="51">
+                riya%20-%20%2009%20-%20Megumeru%20-cockool%20mix-%20%28full%20ver.%29.mp3
+                <Title>Megumeru -cockool mix- (full ver.)</Title>
+                <Author>riya</Author>
+            </Song>
+            <Song index="52">
+                riya%20-%20%2010%20-%20Megumeru%20%28short%20ver.%29.mp3
+                <Title>Megumeru (short ver.)</Title>
+                <Author>riya</Author>
+            </Song>
+            <Song index="53">
+                riya%20-%20%2011%20-%20Megumeru%20-cockool%20mix-%20%28short%20ver.%29.mp3
+                <Title>Megumeru -cockool mix- (short ver.)</Title>
+                <Author>riya</Author>
+            </Song>
+            <Song index="54">
+                riya%20-%20%2012%20-%20-Kage%20Futatsu-%20%28short%20ver.%29.mp3
+                <Title>-Kage Futatsu- (short ver.)</Title>
+                <Author>riya</Author>
+            </Song>
+            <Song index="55">
+                riya%20-%20%2017%20-%20Chiisana%20te%20no%20Hira.mp3
+                <Title>Chiisana te no Hira</Title>
+                <Author>riya</Author>
+            </Song>
         </Album>
         <Album name="Hibike! Euphonium (S1D1)" dir="/tracks/Hibike%21%20Euphonium%20%28S1D1%29">
-            <Song index="0">01%20-%20Hajimari%20no%20Senritsu.mp3</Song>
-            <Song index="1">02%20-%20Oboroge%20na%20Genzai.mp3</Song>
-            <Song index="2">03%20-%20Shintenchi.mp3</Song>
-            <Song index="3">04%20-%20Junshin.mp3</Song>
-            <Song index="4">05%20-%20Seishun%20no%20Ruten.mp3</Song>
-            <Song index="5">06%20-%20Sonna%20ni%20Tanoshii%20no.mp3</Song>
-            <Song index="6">07%20-%20Hazumu%20Omoi.mp3</Song>
-            <Song index="7">08%20-%20Iroasenu%20Kako.mp3</Song>
-            <Song index="8">09%20-%20Chiisana%20Fuan.mp3</Song>
-            <Song index="9">10%20-%20Junjou.mp3</Song>
-            <Song index="10">11%20-%20Ippozutsu%20Mae%20e.mp3</Song>
-            <Song index="11">12%20-%20Toushindai%20no%20Hibi.mp3</Song>
-            <Song index="12">13%20-%20Taainai%20Nayamigoto.mp3</Song>
-            <Song index="13">14%20-%20Kokoro%20Odoru%20Mirai.mp3</Song>
-            <Song index="14">15%20-%20Agata%20Matsuri.mp3</Song>
-            <Song index="15">16%20-%20Seishun%20no%20Itami.mp3</Song>
-            <Song index="16">17%20-%20Unmei%20no%20Nagare.mp3</Song>
-            <Song index="17">18%20-%20Tsutaetai%20Omoi.mp3</Song>
-            <Song index="18">19%20-%20Ishiki%20no%20Houga.mp3</Song>
-            <Song index="19">20%20-%20Fushin.mp3</Song>
-            <Song index="20">21%20-%20Kiretsu.mp3</Song>
-            <Song index="21">22%20-%20Haritsumeta%20Ito%20no%20you%20ni.mp3</Song>
-            <Song index="22">23%20-%20Shoutotsu.mp3</Song>
-            <Song index="23">24%20-%20Seishun%20no%20Kunou.mp3</Song>
-            <Song index="24">25%20-%20Tsuisou.mp3</Song>
-            <Song index="25">26%20-%20Kasuka%20na%20Hikari.mp3</Song>
-            <Song index="26">27%20-%20Ichizu%20na%20Hitomi.mp3</Song>
-            <Song index="27">28%20-%20Kasanaru%20Kokoro.mp3</Song>
-            <Song index="28">29%20-%20Kyoraisuru%20Omoi.mp3</Song>
-            <Song index="29">30%20-%20Tutti%21%20%28TV%20Size%29.mp3</Song>
-            <Song index="30">31%20-%20DREAM%20SOLISTER%20%28TV%20Size%29.mp3</Song>
-            <Song index="31">32%20-%20Trumpet%20Tameshifuki.mp3</Song>
-            <Song index="32">33%20-%20Kokou%20no%20Trumpet.mp3</Song>
-            <Song index="33">34%20-%20Funki%20no%20Trumpet.mp3</Song>
-            <Song index="34">35%20-%20Yukai%20na%20Tuba.mp3</Song>
-            <Song index="35">36%20-%20Zoushokushita%20Tuba.mp3</Song>
-            <Song index="36">37%20-%20Mikazuki%20no%20Mai%20Trumpet%20Solo%20Part%20Audition%20%28Kaori%29.mp3</Song>
-            <Song index="37">38%20-%20Mikazuki%20no%20Mai%20Trumpet%20Solo%20Part%20Audition%20%28Reina%29.mp3</Song>
+            <Song index="0">
+                01%20-%20Hajimari%20no%20Senritsu.mp3
+                <Title>01 - Hajimari no Senritsu</Title>
+                <Author>Unknown Artist</Author>
+            </Song>
+            <Song index="1">
+                02%20-%20Oboroge%20na%20Genzai.mp3
+                <Title>02 - Oboroge na Genzai</Title>
+                <Author>Unknown Artist</Author>
+            </Song>
+            <Song index="2">
+                03%20-%20Shintenchi.mp3
+                <Title>03 - Shintenchi</Title>
+                <Author>Unknown Artist</Author>
+            </Song>
+            <Song index="3">
+                04%20-%20Junshin.mp3
+                <Title>04 - Junshin</Title>
+                <Author>Unknown Artist</Author>
+            </Song>
+            <Song index="4">
+                05%20-%20Seishun%20no%20Ruten.mp3
+                <Title>05 - Seishun no Ruten</Title>
+                <Author>Unknown Artist</Author>
+            </Song>
+            <Song index="5">
+                06%20-%20Sonna%20ni%20Tanoshii%20no.mp3
+                <Title>06 - Sonna ni Tanoshii no</Title>
+                <Author>Unknown Artist</Author>
+            </Song>
+            <Song index="6">
+                07%20-%20Hazumu%20Omoi.mp3
+                <Title>07 - Hazumu Omoi</Title>
+                <Author>Unknown Artist</Author>
+            </Song>
+            <Song index="7">
+                08%20-%20Iroasenu%20Kako.mp3
+                <Title>08 - Iroasenu Kako</Title>
+                <Author>Unknown Artist</Author>
+            </Song>
+            <Song index="8">
+                09%20-%20Chiisana%20Fuan.mp3
+                <Title>09 - Chiisana Fuan</Title>
+                <Author>Unknown Artist</Author>
+            </Song>
+            <Song index="9">
+                10%20-%20Junjou.mp3
+                <Title>10 - Junjou</Title>
+                <Author>Unknown Artist</Author>
+            </Song>
+            <Song index="10">
+                11%20-%20Ippozutsu%20Mae%20e.mp3
+                <Title>11 - Ippozutsu Mae e</Title>
+                <Author>Unknown Artist</Author>
+            </Song>
+            <Song index="11">
+                12%20-%20Toushindai%20no%20Hibi.mp3
+                <Title>12 - Toushindai no Hibi</Title>
+                <Author>Unknown Artist</Author>
+            </Song>
+            <Song index="12">
+                13%20-%20Taainai%20Nayamigoto.mp3
+                <Title>13 - Taainai Nayamigoto</Title>
+                <Author>Unknown Artist</Author>
+            </Song>
+            <Song index="13">
+                14%20-%20Kokoro%20Odoru%20Mirai.mp3
+                <Title>14 - Kokoro Odoru Mirai</Title>
+                <Author>Unknown Artist</Author>
+            </Song>
+            <Song index="14">
+                15%20-%20Agata%20Matsuri.mp3
+                <Title>15 - Agata Matsuri</Title>
+                <Author>Unknown Artist</Author>
+            </Song>
+            <Song index="15">
+                16%20-%20Seishun%20no%20Itami.mp3
+                <Title>16 - Seishun no Itami</Title>
+                <Author>Unknown Artist</Author>
+            </Song>
+            <Song index="16">
+                17%20-%20Unmei%20no%20Nagare.mp3
+                <Title>17 - Unmei no Nagare</Title>
+                <Author>Unknown Artist</Author>
+            </Song>
+            <Song index="17">
+                18%20-%20Tsutaetai%20Omoi.mp3
+                <Title>18 - Tsutaetai Omoi</Title>
+                <Author>Unknown Artist</Author>
+            </Song>
+            <Song index="18">
+                19%20-%20Ishiki%20no%20Houga.mp3
+                <Title>19 - Ishiki no Houga</Title>
+                <Author>Unknown Artist</Author>
+            </Song>
+            <Song index="19">
+                20%20-%20Fushin.mp3
+                <Title>20 - Fushin</Title>
+                <Author>Unknown Artist</Author>
+            </Song>
+            <Song index="20">
+                21%20-%20Kiretsu.mp3
+                <Title>21 - Kiretsu</Title>
+                <Author>Unknown Artist</Author>
+            </Song>
+            <Song index="21">
+                22%20-%20Haritsumeta%20Ito%20no%20you%20ni.mp3
+                <Title>22 - Haritsumeta Ito no you ni</Title>
+                <Author>Unknown Artist</Author>
+            </Song>
+            <Song index="22">
+                23%20-%20Shoutotsu.mp3
+                <Title>23 - Shoutotsu</Title>
+                <Author>Unknown Artist</Author>
+            </Song>
+            <Song index="23">
+                24%20-%20Seishun%20no%20Kunou.mp3
+                <Title>24 - Seishun no Kunou</Title>
+                <Author>Unknown Artist</Author>
+            </Song>
+            <Song index="24">
+                25%20-%20Tsuisou.mp3
+                <Title>25 - Tsuisou</Title>
+                <Author>Unknown Artist</Author>
+            </Song>
+            <Song index="25">
+                26%20-%20Kasuka%20na%20Hikari.mp3
+                <Title>26 - Kasuka na Hikari</Title>
+                <Author>Unknown Artist</Author>
+            </Song>
+            <Song index="26">
+                27%20-%20Ichizu%20na%20Hitomi.mp3
+                <Title>27 - Ichizu na Hitomi</Title>
+                <Author>Unknown Artist</Author>
+            </Song>
+            <Song index="27">
+                28%20-%20Kasanaru%20Kokoro.mp3
+                <Title>28 - Kasanaru Kokoro</Title>
+                <Author>Unknown Artist</Author>
+            </Song>
+            <Song index="28">
+                29%20-%20Kyoraisuru%20Omoi.mp3
+                <Title>29 - Kyoraisuru Omoi</Title>
+                <Author>Unknown Artist</Author>
+            </Song>
+            <Song index="29">
+                30%20-%20Tutti%21%20%28TV%20Size%29.mp3
+                <Title>30 - Tutti! (TV Size)</Title>
+                <Author>Unknown Artist</Author>
+            </Song>
+            <Song index="30">
+                31%20-%20DREAM%20SOLISTER%20%28TV%20Size%29.mp3
+                <Title>31 - DREAM SOLISTER (TV Size)</Title>
+                <Author>Unknown Artist</Author>
+            </Song>
+            <Song index="31">
+                32%20-%20Trumpet%20Tameshifuki.mp3
+                <Title>32 - Trumpet Tameshifuki</Title>
+                <Author>Unknown Artist</Author>
+            </Song>
+            <Song index="32">
+                33%20-%20Kokou%20no%20Trumpet.mp3
+                <Title>33 - Kokou no Trumpet</Title>
+                <Author>Unknown Artist</Author>
+            </Song>
+            <Song index="33">
+                34%20-%20Funki%20no%20Trumpet.mp3
+                <Title>34 - Funki no Trumpet</Title>
+                <Author>Unknown Artist</Author>
+            </Song>
+            <Song index="34">
+                35%20-%20Yukai%20na%20Tuba.mp3
+                <Title>35 - Yukai na Tuba</Title>
+                <Author>Unknown Artist</Author>
+            </Song>
+            <Song index="35">
+                36%20-%20Zoushokushita%20Tuba.mp3
+                <Title>36 - Zoushokushita Tuba</Title>
+                <Author>Unknown Artist</Author>
+            </Song>
+            <Song index="36">
+                37%20-%20Mikazuki%20no%20Mai%20Trumpet%20Solo%20Part%20Audition%20%28Kaori%29.mp3
+                <Title>37 - Mikazuki no Mai Trumpet Solo Part Audition (Kaori)</Title>
+                <Author>Unknown Artist</Author>
+            </Song>
+            <Song index="37">
+                38%20-%20Mikazuki%20no%20Mai%20Trumpet%20Solo%20Part%20Audition%20%28Reina%29.mp3
+                <Title>38 - Mikazuki no Mai Trumpet Solo Part Audition (Reina)</Title>
+                <Author>Unknown Artist</Author>
+            </Song>
         </Album>
         <Album name="Hyouka" dir="/tracks/Hyouka">
-            <Song index="0">01%20-%20Door%20to%20the%20Rose-Colored%20World.mp3</Song>
-            <Song index="1">02%20-%20Rose%20pedals.mp3</Song>
-            <Song index="2">03%20-%20Air%20on%20a%20G-String.mp3</Song>
-            <Song index="3">04%20-%20Sicilienne.mp3</Song>
-            <Song index="4">05%20-%20Girl%20with%20a%20god%20complex.mp3</Song>
-            <Song index="5">06%20-%20Question%20about%20the%20human%20heart.mp3</Song>
-            <Song index="6">07%20-%20Peace%20and%20Silence%20of%20the%20heart.mp3</Song>
-            <Song index="7">08%20-%20Comfort%20of%20the%20cloudy%20sky.mp3</Song>
-            <Song index="8">09%20-%20Laziness%20of%20righteousness.mp3</Song>
-            <Song index="9">10%20-%20Heavy%20depression.mp3</Song>
-            <Song index="10">11%20-%20Sign%20of%20distrust.mp3</Song>
-            <Song index="11">12%20-%20Moonlight%20Sonata.mp3</Song>
-            <Song index="12">13%20-%20Self-produced%20mystery.mp3</Song>
-            <Song index="13">14%20-%20Self-produced%20threat.mp3</Song>
-            <Song index="14">15%20-%20Self-produced%20shock.mp3</Song>
-            <Song index="15">16%20-%20Moonlight%20Sonata%20%28Third%20Movement%29.mp3</Song>
-            <Song index="16">17%20-%20Air%20rich%20poetry.mp3</Song>
-            <Song index="17">18%20-%20Waltz%20obstinate.mp3</Song>
-            <Song index="18">19%20-%20Daily%20repetition.mp3</Song>
-            <Song index="19">20%20-%20Let%27s%20go%20to%20the%20Festival%21.mp3</Song>
-            <Song index="20">21%20-%20Theme%20of%20the%20radio%20broadcast.mp3</Song>
-            <Song index="21">22%20-%20Radio%20broadcast%20jingle.mp3</Song>
-            <Song index="22">23%20-%20Dance%20of%20ice%20cream.mp3</Song>
-            <Song index="23">24%20-%20Traditional%20magic%20show.mp3</Song>
-            <Song index="24">25%20-%20Cooking%20flame%20~Wave~.mp3</Song>
-            <Song index="25">26%20-%20Cooking%20flame%20~Explosion~.mp3</Song>
-            <Song index="26">27%20-%20Analysis%20firm%20announced.mp3</Song>
-            <Song index="27">28%20-%20Young%20Bird.mp3</Song>
-            <Song index="28">29%20-%20Ambiguous%20nature%20of%20time.mp3</Song>
-            <Song index="29">30%20-%20Brain%20that%20rotates.mp3</Song>
-            <Song index="30">31%20-%20Maze.mp3</Song>
-            <Song index="31">32%20-%20Demonstration%20with%20fluctuation.mp3</Song>
-            <Song index="32">33%20-%20Panic%20from%20shocking%20events.mp3</Song>
-            <Song index="33">34%20-%20Unknown%20foe.mp3</Song>
-            <Song index="34">35%20-%20Black%20mist%20wraps.mp3</Song>
-            <Song index="35">36%20-%20Dissapointing%20resolution.mp3</Song>
-            <Song index="36">37%20-%20Girl%20with%20a%20god%20complex%20~Reunion~.mp3</Song>
-            <Song index="37">38%20-%20Sudden%20storm.mp3</Song>
-            <Song index="38">39%20-%20Refreshed%20by%20looking%20at%20the%20sky.mp3</Song>
-            <Song index="39">40%20-%20Unaccompanied%20Cello%20Suite%20No.%201.mp3</Song>
+            <Song index="0">
+                01%20-%20Door%20to%20the%20Rose-Colored%20World.mp3
+                <Title>Door to the Rose-Colored World</Title>
+                <Author>Kouhei Tanaka</Author>
+            </Song>
+            <Song index="1">
+                02%20-%20Rose%20pedals.mp3
+                <Title>Rose pedals</Title>
+                <Author>Kouhei Tanaka</Author>
+            </Song>
+            <Song index="2">
+                03%20-%20Air%20on%20a%20G-String.mp3
+                <Title>Air on a G-String</Title>
+                <Author>Johann Sebastian Bach</Author>
+            </Song>
+            <Song index="3">
+                04%20-%20Sicilienne.mp3
+                <Title>Sicilienne</Title>
+                <Author>Gabriel Faure</Author>
+            </Song>
+            <Song index="4">
+                05%20-%20Girl%20with%20a%20god%20complex.mp3
+                <Title>Girl with a god complex</Title>
+                <Author>Kouhei Tanaka</Author>
+            </Song>
+            <Song index="5">
+                06%20-%20Question%20about%20the%20human%20heart.mp3
+                <Title>Question about the human heart</Title>
+                <Author>Kouhei Tanaka</Author>
+            </Song>
+            <Song index="6">
+                07%20-%20Peace%20and%20Silence%20of%20the%20heart.mp3
+                <Title>Peace and Silence of the heart</Title>
+                <Author>Kouhei Tanaka</Author>
+            </Song>
+            <Song index="7">
+                08%20-%20Comfort%20of%20the%20cloudy%20sky.mp3
+                <Title>Comfort of the cloudy sky</Title>
+                <Author>Kouhei Tanaka</Author>
+            </Song>
+            <Song index="8">
+                09%20-%20Laziness%20of%20righteousness.mp3
+                <Title>Laziness of righteousness</Title>
+                <Author>Kouhei Tanaka</Author>
+            </Song>
+            <Song index="9">
+                10%20-%20Heavy%20depression.mp3
+                <Title>Heavy depression</Title>
+                <Author>Kouhei Tanaka</Author>
+            </Song>
+            <Song index="10">
+                11%20-%20Sign%20of%20distrust.mp3
+                <Title>Sign of distrust</Title>
+                <Author>Kouhei Tanaka</Author>
+            </Song>
+            <Song index="11">
+                12%20-%20Moonlight%20Sonata.mp3
+                <Title>Moonlight Sonata</Title>
+                <Author>Ludwig van Beethoven</Author>
+            </Song>
+            <Song index="12">
+                13%20-%20Self-produced%20mystery.mp3
+                <Title>Self-produced mystery</Title>
+                <Author>Kouhei Tanaka</Author>
+            </Song>
+            <Song index="13">
+                14%20-%20Self-produced%20threat.mp3
+                <Title>Self-produced threat</Title>
+                <Author>Kouhei Tanaka</Author>
+            </Song>
+            <Song index="14">
+                15%20-%20Self-produced%20shock.mp3
+                <Title>Self-produced shock</Title>
+                <Author>Kouhei Tanaka</Author>
+            </Song>
+            <Song index="15">
+                16%20-%20Moonlight%20Sonata%20%28Third%20Movement%29.mp3
+                <Title>Moonlight Sonata (Third Movement)</Title>
+                <Author>Ludwig van Beethoven</Author>
+            </Song>
+            <Song index="16">
+                17%20-%20Air%20rich%20poetry.mp3
+                <Title>Air rich poetry</Title>
+                <Author>Kouhei Tanaka</Author>
+            </Song>
+            <Song index="17">
+                18%20-%20Waltz%20obstinate.mp3
+                <Title>Waltz obstinate</Title>
+                <Author>Kouhei Tanaka</Author>
+            </Song>
+            <Song index="18">
+                19%20-%20Daily%20repetition.mp3
+                <Title>Daily repetition</Title>
+                <Author>Kouhei Tanaka</Author>
+            </Song>
+            <Song index="19">
+                20%20-%20Let%27s%20go%20to%20the%20Festival%21.mp3
+                <Title>Let's go to the Festival!</Title>
+                <Author>Kouhei Tanaka</Author>
+            </Song>
+            <Song index="20">
+                21%20-%20Theme%20of%20the%20radio%20broadcast.mp3
+                <Title>Theme of the radio broadcast</Title>
+                <Author>Kouhei Tanaka</Author>
+            </Song>
+            <Song index="21">
+                22%20-%20Radio%20broadcast%20jingle.mp3
+                <Title>Radio broadcast jingle</Title>
+                <Author>Kouhei Tanaka</Author>
+            </Song>
+            <Song index="22">
+                23%20-%20Dance%20of%20ice%20cream.mp3
+                <Title>Dance of ice cream</Title>
+                <Author>Kouhei Tanaka</Author>
+            </Song>
+            <Song index="23">
+                24%20-%20Traditional%20magic%20show.mp3
+                <Title>Traditional magic show</Title>
+                <Author>Kouhei Tanaka</Author>
+            </Song>
+            <Song index="24">
+                25%20-%20Cooking%20flame%20~Wave~.mp3
+                <Title>Cooking flame ~Wave~</Title>
+                <Author>Kouhei Tanaka</Author>
+            </Song>
+            <Song index="25">
+                26%20-%20Cooking%20flame%20~Explosion~.mp3
+                <Title>Cooking flame ~Explosion~</Title>
+                <Author>Kouhei Tanaka</Author>
+            </Song>
+            <Song index="26">
+                27%20-%20Analysis%20firm%20announced.mp3
+                <Title>Analysis firm announced</Title>
+                <Author>Kouhei Tanaka</Author>
+            </Song>
+            <Song index="27">
+                28%20-%20Young%20Bird.mp3
+                <Title>Young Bird</Title>
+                <Author>Kouhei Tanaka</Author>
+            </Song>
+            <Song index="28">
+                29%20-%20Ambiguous%20nature%20of%20time.mp3
+                <Title>Ambiguous nature of time</Title>
+                <Author>Kouhei Tanaka</Author>
+            </Song>
+            <Song index="29">
+                30%20-%20Brain%20that%20rotates.mp3
+                <Title>Brain that rotates</Title>
+                <Author>Kouhei Tanaka</Author>
+            </Song>
+            <Song index="30">
+                31%20-%20Maze.mp3
+                <Title>Maze</Title>
+                <Author>Kouhei Tanaka</Author>
+            </Song>
+            <Song index="31">
+                32%20-%20Demonstration%20with%20fluctuation.mp3
+                <Title>Demonstration with fluctuation</Title>
+                <Author>Kouhei Tanaka</Author>
+            </Song>
+            <Song index="32">
+                33%20-%20Panic%20from%20shocking%20events.mp3
+                <Title>Panic from shocking events</Title>
+                <Author>Kouhei Tanaka</Author>
+            </Song>
+            <Song index="33">
+                34%20-%20Unknown%20foe.mp3
+                <Title>Unknown foe</Title>
+                <Author>Kouhei Tanaka</Author>
+            </Song>
+            <Song index="34">
+                35%20-%20Black%20mist%20wraps.mp3
+                <Title>Black mist wraps</Title>
+                <Author>Kouhei Tanaka</Author>
+            </Song>
+            <Song index="35">
+                36%20-%20Dissapointing%20resolution.mp3
+                <Title>Dissapointing resolution</Title>
+                <Author>Kouhei Tanaka</Author>
+            </Song>
+            <Song index="36">
+                37%20-%20Girl%20with%20a%20god%20complex%20~Reunion~.mp3
+                <Title>Girl with a god complex ~Reunion~</Title>
+                <Author>Kouhei Tanaka</Author>
+            </Song>
+            <Song index="37">
+                38%20-%20Sudden%20storm.mp3
+                <Title>Sudden storm</Title>
+                <Author>Kouhei Tanaka</Author>
+            </Song>
+            <Song index="38">
+                39%20-%20Refreshed%20by%20looking%20at%20the%20sky.mp3
+                <Title>Refreshed by looking at the sky</Title>
+                <Author>Kouhei Tanaka</Author>
+            </Song>
+            <Song index="39">
+                40%20-%20Unaccompanied%20Cello%20Suite%20No.%201.mp3
+                <Title>Unaccompanied Cello Suite No. 1</Title>
+                <Author>Johann Sebastian Bach</Author>
+            </Song>
         </Album>
         <Album name="Made in Abyss" dir="/tracks/Made%20in%20Abyss">
-            <Song index="0">1-01%20Made%20in%20Abyss.mp3</Song>
-            <Song index="1">1-02%20Roar%20of%20the%20Abyss.mp3</Song>
-            <Song index="2">1-03%20Beni-Kuchi-Nawa.mp3</Song>
-            <Song index="3">1-04%20Days%20in%20the%20Sun.mp3</Song>
-            <Song index="4">1-05%20Rafters.mp3</Song>
-            <Song index="5">1-06%20Treehouse.mp3</Song>
-            <Song index="6">1-07%20New%20World.mp3</Song>
-            <Song index="7">1-08%20To%20the%20Abyss%21.mp3</Song>
-            <Song index="8">1-09%20Underground%20River%20%28opening%20version%20ft.%20Raj%20Ramayya%29.mp3</Song>
-            <Song index="9">1-10%20Maul.mp3</Song>
-            <Song index="10">1-11%20Walking%20the%20Streets.mp3</Song>
-            <Song index="11">1-12%20Remembering%20Home.mp3</Song>
-            <Song index="12">1-13%20Those%20Everyday%20Feels.mp3</Song>
-            <Song index="13">1-14%202%20Months.mp3</Song>
-            <Song index="14">1-15%20Reg%20Wakes.mp3</Song>
-            <Song index="15">1-16%20Theme%20of%20Reg.mp3</Song>
-            <Song index="16">1-17%20Gallantry%20and%20Recapitulation.mp3</Song>
-            <Song index="17">1-18%20Riko%27s%20Theme.mp3</Song>
-            <Song index="18">1-19%20Swings%20and%20Roundabouts.mp3</Song>
-            <Song index="19">1-20%20Tasukete.mp3</Song>
-            <Song index="20">1-21%20Air.mp3</Song>
-            <Song index="21">1-22%20Welcome%20to%20my%20World.mp3</Song>
-            <Song index="22">1-23%20Hanezeve%20Caradhina%20%28ft.%20Takeshi%20Saito%29.mp3</Song>
-            <Song index="23">1-24%20Depths%20of%20the%20Abyss.mp3</Song>
-            <Song index="24">1-25%20Forest%20of%20the%20Abyss.mp3</Song>
-            <Song index="25">2-01%20Butterfly%20Atmospheres.mp3</Song>
-            <Song index="26">2-02%20The%20First%20Layer.mp3</Song>
-            <Song index="27">2-03%20Abyss%20of%20the%20Sea.mp3</Song>
-            <Song index="28">2-04%20Orth%20Waltz.mp3</Song>
-            <Song index="29">2-05%20Jungle%20Run.mp3</Song>
-            <Song index="30">2-06%20Crucifixion.mp3</Song>
-            <Song index="31">2-07%20Serphent%20Call.mp3</Song>
-            <Song index="32">2-08%20Outside.mp3</Song>
-            <Song index="33">2-09%20Forces%20Beyond%20Control.mp3</Song>
-            <Song index="34">2-10%20Nanachi%20in%20the%20Dark.mp3</Song>
-            <Song index="35">2-11%20Underground%20River%20%28ft.%20Raj%20Ramayya%29.mp3</Song>
-            <Song index="36">2-12%20Walking%20the%20Tightrope.mp3</Song>
-            <Song index="37">2-13%20Relinquish.mp3</Song>
-            <Song index="38">2-14%20Tour%20the%20Abyss.mp3</Song>
-            <Song index="39">2-15%20Adventure%20Through%20the%20Light.mp3</Song>
-            <Song index="40">2-16%20Classroom.mp3</Song>
-            <Song index="41">2-17%20Reg%27s%20Power.mp3</Song>
-            <Song index="42">2-18%20In%20the%20Blind.mp3</Song>
-            <Song index="43">2-19%20The%20Pit.mp3</Song>
-            <Song index="44">2-20%20Discover%20the%20Abyss.mp3</Song>
-            <Song index="45">2-21%20Vista.mp3</Song>
-            <Song index="46">2-22%20Mirage.mp3</Song>
-            <Song index="47">2-23%20Indoor%20Voices.mp3</Song>
-            <Song index="48">2-24%20Nanachi%20in%20the%20Light.mp3</Song>
-            <Song index="49">2-25%20Saber-tooth.mp3</Song>
-            <Song index="50">2-26%20Pathway.mp3</Song>
-            <Song index="51">2-27%20Tomorrow.mp3</Song>
+            <Song index="0">
+                1-01%20Made%20in%20Abyss.mp3
+                <Title>Made in Abyss</Title>
+                <Author>Kevin Penkin</Author>
+            </Song>
+            <Song index="1">
+                1-02%20Roar%20of%20the%20Abyss.mp3
+                <Title>Roar of the Abyss</Title>
+                <Author>Kevin Penkin</Author>
+            </Song>
+            <Song index="2">
+                1-03%20Beni-Kuchi-Nawa.mp3
+                <Title>Beni-Kuchi-Nawa</Title>
+                <Author>Kevin Penkin</Author>
+            </Song>
+            <Song index="3">
+                1-04%20Days%20in%20the%20Sun.mp3
+                <Title>Days in the Sun</Title>
+                <Author>Kevin Penkin</Author>
+            </Song>
+            <Song index="4">
+                1-05%20Rafters.mp3
+                <Title>Rafters</Title>
+                <Author>Kevin Penkin</Author>
+            </Song>
+            <Song index="5">
+                1-06%20Treehouse.mp3
+                <Title>Treehouse</Title>
+                <Author>Kevin Penkin</Author>
+            </Song>
+            <Song index="6">
+                1-07%20New%20World.mp3
+                <Title>New World</Title>
+                <Author>Kevin Penkin</Author>
+            </Song>
+            <Song index="7">
+                1-08%20To%20the%20Abyss%21.mp3
+                <Title>To the Abyss!</Title>
+                <Author>Kevin Penkin</Author>
+            </Song>
+            <Song index="8">
+                1-09%20Underground%20River%20%28opening%20version%20ft.%20Raj%20Ramayya%29.mp3
+                <Title>Underground River (opening version ft. Raj Ramayya)</Title>
+                <Author>Kevin Penkin</Author>
+            </Song>
+            <Song index="9">
+                1-10%20Maul.mp3
+                <Title>Maul</Title>
+                <Author>Kevin Penkin</Author>
+            </Song>
+            <Song index="10">
+                1-11%20Walking%20the%20Streets.mp3
+                <Title>Walking the Streets</Title>
+                <Author>Kevin Penkin</Author>
+            </Song>
+            <Song index="11">
+                1-12%20Remembering%20Home.mp3
+                <Title>Remembering Home</Title>
+                <Author>Kevin Penkin</Author>
+            </Song>
+            <Song index="12">
+                1-13%20Those%20Everyday%20Feels.mp3
+                <Title>Those Everyday Feels</Title>
+                <Author>Kevin Penkin</Author>
+            </Song>
+            <Song index="13">
+                1-14%202%20Months.mp3
+                <Title>2 Months</Title>
+                <Author>Kevin Penkin</Author>
+            </Song>
+            <Song index="14">
+                1-15%20Reg%20Wakes.mp3
+                <Title>Reg Wakes</Title>
+                <Author>Kevin Penkin</Author>
+            </Song>
+            <Song index="15">
+                1-16%20Theme%20of%20Reg.mp3
+                <Title>Theme of Reg</Title>
+                <Author>Kevin Penkin</Author>
+            </Song>
+            <Song index="16">
+                1-17%20Gallantry%20and%20Recapitulation.mp3
+                <Title>Gallantry and Recapitulation</Title>
+                <Author>Kevin Penkin</Author>
+            </Song>
+            <Song index="17">
+                1-18%20Riko%27s%20Theme.mp3
+                <Title>Riko's Theme</Title>
+                <Author>Kevin Penkin</Author>
+            </Song>
+            <Song index="18">
+                1-19%20Swings%20and%20Roundabouts.mp3
+                <Title>Swings and Roundabouts</Title>
+                <Author>Kevin Penkin</Author>
+            </Song>
+            <Song index="19">
+                1-20%20Tasukete.mp3
+                <Title>Tasukete</Title>
+                <Author>Kevin Penkin</Author>
+            </Song>
+            <Song index="20">
+                1-21%20Air.mp3
+                <Title>Air</Title>
+                <Author>Kevin Penkin</Author>
+            </Song>
+            <Song index="21">
+                1-22%20Welcome%20to%20my%20World.mp3
+                <Title>Welcome to my World</Title>
+                <Author>Kevin Penkin</Author>
+            </Song>
+            <Song index="22">
+                1-23%20Hanezeve%20Caradhina%20%28ft.%20Takeshi%20Saito%29.mp3
+                <Title>Hanezeve Caradhina (ft. Takeshi Saito)</Title>
+                <Author>Kevin Penkin</Author>
+            </Song>
+            <Song index="23">
+                1-24%20Depths%20of%20the%20Abyss.mp3
+                <Title>Depths of the Abyss</Title>
+                <Author>Kevin Penkin</Author>
+            </Song>
+            <Song index="24">
+                1-25%20Forest%20of%20the%20Abyss.mp3
+                <Title>Forest of the Abyss</Title>
+                <Author>Kevin Penkin</Author>
+            </Song>
+            <Song index="25">
+                2-01%20Butterfly%20Atmospheres.mp3
+                <Title>Butterfly Atmospheres</Title>
+                <Author>Kevin Penkin</Author>
+            </Song>
+            <Song index="26">
+                2-02%20The%20First%20Layer.mp3
+                <Title>The First Layer</Title>
+                <Author>Kevin Penkin</Author>
+            </Song>
+            <Song index="27">
+                2-03%20Abyss%20of%20the%20Sea.mp3
+                <Title>Abyss of the Sea</Title>
+                <Author>Kevin Penkin</Author>
+            </Song>
+            <Song index="28">
+                2-04%20Orth%20Waltz.mp3
+                <Title>Orth Waltz</Title>
+                <Author>Kevin Penkin</Author>
+            </Song>
+            <Song index="29">
+                2-05%20Jungle%20Run.mp3
+                <Title>Jungle Run</Title>
+                <Author>Kevin Penkin</Author>
+            </Song>
+            <Song index="30">
+                2-06%20Crucifixion.mp3
+                <Title>Crucifixion</Title>
+                <Author>Kevin Penkin</Author>
+            </Song>
+            <Song index="31">
+                2-07%20Serphent%20Call.mp3
+                <Title>Serphent Call</Title>
+                <Author>Kevin Penkin</Author>
+            </Song>
+            <Song index="32">
+                2-08%20Outside.mp3
+                <Title>Outside</Title>
+                <Author>Kevin Penkin</Author>
+            </Song>
+            <Song index="33">
+                2-09%20Forces%20Beyond%20Control.mp3
+                <Title>Forces Beyond Control</Title>
+                <Author>Kevin Penkin</Author>
+            </Song>
+            <Song index="34">
+                2-10%20Nanachi%20in%20the%20Dark.mp3
+                <Title>Nanachi in the Dark</Title>
+                <Author>Kevin Penkin</Author>
+            </Song>
+            <Song index="35">
+                2-11%20Underground%20River%20%28ft.%20Raj%20Ramayya%29.mp3
+                <Title>Underground River (ft. Raj Ramayya)</Title>
+                <Author>Kevin Penkin</Author>
+            </Song>
+            <Song index="36">
+                2-12%20Walking%20the%20Tightrope.mp3
+                <Title>Walking the Tightrope</Title>
+                <Author>Kevin Penkin</Author>
+            </Song>
+            <Song index="37">
+                2-13%20Relinquish.mp3
+                <Title>Relinquish</Title>
+                <Author>Kevin Penkin</Author>
+            </Song>
+            <Song index="38">
+                2-14%20Tour%20the%20Abyss.mp3
+                <Title>Tour the Abyss</Title>
+                <Author>Kevin Penkin</Author>
+            </Song>
+            <Song index="39">
+                2-15%20Adventure%20Through%20the%20Light.mp3
+                <Title>Adventure Through the Light</Title>
+                <Author>Kevin Penkin</Author>
+            </Song>
+            <Song index="40">
+                2-16%20Classroom.mp3
+                <Title>Classroom</Title>
+                <Author>Kevin Penkin</Author>
+            </Song>
+            <Song index="41">
+                2-17%20Reg%27s%20Power.mp3
+                <Title>Reg's Power</Title>
+                <Author>Kevin Penkin</Author>
+            </Song>
+            <Song index="42">
+                2-18%20In%20the%20Blind.mp3
+                <Title>In the Blind</Title>
+                <Author>Kevin Penkin</Author>
+            </Song>
+            <Song index="43">
+                2-19%20The%20Pit.mp3
+                <Title>The Pit</Title>
+                <Author>Kevin Penkin</Author>
+            </Song>
+            <Song index="44">
+                2-20%20Discover%20the%20Abyss.mp3
+                <Title>Discover the Abyss</Title>
+                <Author>Kevin Penkin</Author>
+            </Song>
+            <Song index="45">
+                2-21%20Vista.mp3
+                <Title>Vista</Title>
+                <Author>Kevin Penkin</Author>
+            </Song>
+            <Song index="46">
+                2-22%20Mirage.mp3
+                <Title>Mirage</Title>
+                <Author>Kevin Penkin</Author>
+            </Song>
+            <Song index="47">
+                2-23%20Indoor%20Voices.mp3
+                <Title>Indoor Voices</Title>
+                <Author>Kevin Penkin</Author>
+            </Song>
+            <Song index="48">
+                2-24%20Nanachi%20in%20the%20Light.mp3
+                <Title>Nanachi in the Light</Title>
+                <Author>Kevin Penkin</Author>
+            </Song>
+            <Song index="49">
+                2-25%20Saber-tooth.mp3
+                <Title>Saber-tooth</Title>
+                <Author>Kevin Penkin</Author>
+            </Song>
+            <Song index="50">
+                2-26%20Pathway.mp3
+                <Title>Pathway</Title>
+                <Author>Kevin Penkin</Author>
+            </Song>
+            <Song index="51">
+                2-27%20Tomorrow.mp3
+                <Title>Tomorrow</Title>
+                <Author>Kevin Penkin</Author>
+            </Song>
         </Album>
         <Album name="Tamako Love Story" dir="/tracks/Tamako%20Love%20Story">
-            <Song index="0">01.%20Shoutengai%20No%20Nichijou%20%28cinema%20Ver.%29.mp3</Song>
-            <Song index="1">02.%20KOI%20NO%20UTA.mp3</Song>
-            <Song index="2">03.%20Kanna%20No%20Theme.mp3</Song>
-            <Song index="3">04.%20Baton%20Bu%20San%20Nin%20Musume%20No%20Theme.mp3</Song>
-            <Song index="4">05.%20Houkago.mp3</Song>
-            <Song index="5">06.%20Shiawase%20No%20Shoutengai%20%28cinema%20Ver.%29.mp3</Song>
-            <Song index="6">07.%20Koisuru%20Mochizou.mp3</Song>
-            <Song index="7">08.%20Mochizou%20No%20Keikaku.mp3</Song>
-            <Song index="8">09.%20Usayu%20Nite.mp3</Song>
-            <Song index="9">10.%20Asa%20No%20Gakkou.mp3</Song>
-            <Song index="10">11.%20Midori%20To%20Mochizou.mp3</Song>
-            <Song index="11">12.%20Kawara%20No%20Tamako%20To%20Mochizou.mp3</Song>
-            <Song index="12">13.%20Tamako%20Sakuran%20Chuu.mp3</Song>
-            <Song index="13">14.%20Yasashii%20Amefuri.mp3</Song>
-            <Song index="14">15.%20Chiisana%20Himitsu.mp3</Song>
-            <Song index="15">16.%20Gakkou%20To%20School%20Girl%20%28cinema%20Ver.%29.mp3</Song>
-            <Song index="16">17.%20Hinako%20No%20Omoide.mp3</Song>
-            <Song index="17">18.%20Uchuu%20No%20Iriguchi.mp3</Song>
-            <Song index="18">19.%20Tochan%20No%20Omochi.mp3</Song>
-            <Song index="19">20.%20Himitsu.mp3</Song>
-            <Song index="20">21.%20Himitsu.mp3</Song>
-            <Song index="21">22.%20Ojiichan%20No%20Omochi.mp3</Song>
-            <Song index="22">23.%20Osenti%20Tamako%20%28cinema%20Ver.%29.mp3</Song>
-            <Song index="23">24.%20Nakaniwa.mp3</Song>
-            <Song index="24">25.%20Koi%20No%20Arekore.mp3</Song>
-            <Song index="25">26.%20Hinako.mp3</Song>
-            <Song index="26">27.%20Tamako%20He.mp3</Song>
-            <Song index="27">28.%20Ue%20Wo%20Muite%20Arukou.mp3</Song>
-            <Song index="28">29.%20Kyoushitsu.mp3</Song>
-            <Song index="29">30.%20Midori%20No%20Theme.mp3</Song>
-            <Song index="30">31.%20Kaze%20No%20Fuku%20Saki.mp3</Song>
-            <Song index="31">32.%20Koi%20No%20Uta%20_%20Kitashirakawa%20Tamako.mp3</Song>
-            <Song index="32">33.%20Principle.mp3</Song>
-            <Song index="33">34.%20Midori%20No%20Kimochi%20%28bonus%20Track%29%20.mp3</Song>
+            <Song index="0">
+                01.%20Shoutengai%20No%20Nichijou%20%28cinema%20Ver.%29.mp3
+                <Title>Shoutengai No Nichijou (cinema Ver.)</Title>
+                <Author>Tomoko Kataoka</Author>
+            </Song>
+            <Song index="1">
+                02.%20KOI%20NO%20UTA.mp3
+                <Title>KOI NO UTA</Title>
+                <Author>Tomoko Kataoka</Author>
+            </Song>
+            <Song index="2">
+                03.%20Kanna%20No%20Theme.mp3
+                <Title>Kanna No Theme</Title>
+                <Author>Tomoko Kataoka</Author>
+            </Song>
+            <Song index="3">
+                04.%20Baton%20Bu%20San%20Nin%20Musume%20No%20Theme.mp3
+                <Title>Baton Bu San Nin Musume No Theme</Title>
+                <Author>Tomoko Kataoka</Author>
+            </Song>
+            <Song index="4">
+                05.%20Houkago.mp3
+                <Title>Houkago</Title>
+                <Author>Tomoko Kataoka</Author>
+            </Song>
+            <Song index="5">
+                06.%20Shiawase%20No%20Shoutengai%20%28cinema%20Ver.%29.mp3
+                <Title>Shiawase No Shoutengai (cinema Ver.)</Title>
+                <Author>Hitomi Shimizu</Author>
+            </Song>
+            <Song index="6">
+                07.%20Koisuru%20Mochizou.mp3
+                <Title>Koisuru Mochizou</Title>
+                <Author>Tomoko Kataoka</Author>
+            </Song>
+            <Song index="7">
+                08.%20Mochizou%20No%20Keikaku.mp3
+                <Title>Mochizou No Keikaku</Title>
+                <Author>Yoshiyuki Usui</Author>
+            </Song>
+            <Song index="8">
+                09.%20Usayu%20Nite.mp3
+                <Title>Usayu Nite</Title>
+                <Author>Yoshiyuki Usui</Author>
+            </Song>
+            <Song index="9">
+                10.%20Asa%20No%20Gakkou.mp3
+                <Title>Asa No Gakkou</Title>
+                <Author>Tomoko Kataoka</Author>
+            </Song>
+            <Song index="10">
+                11.%20Midori%20To%20Mochizou.mp3
+                <Title>Midori To Mochizou</Title>
+                <Author>Tomoko Kataoka</Author>
+            </Song>
+            <Song index="11">
+                12.%20Kawara%20No%20Tamako%20To%20Mochizou.mp3
+                <Title>Kawara No Tamako To Mochizou</Title>
+                <Author>Tomoko Kataoka</Author>
+            </Song>
+            <Song index="12">
+                13.%20Tamako%20Sakuran%20Chuu.mp3
+                <Title>Tamako Sakuran Chuu</Title>
+                <Author>Tomoko Kataoka</Author>
+            </Song>
+            <Song index="13">
+                14.%20Yasashii%20Amefuri.mp3
+                <Title>Yasashii Amefuri</Title>
+                <Author>Tomoko Kataoka</Author>
+            </Song>
+            <Song index="14">
+                15.%20Chiisana%20Himitsu.mp3
+                <Title>Chiisana Himitsu</Title>
+                <Author>Tomoko Kataoka</Author>
+            </Song>
+            <Song index="15">
+                16.%20Gakkou%20To%20School%20Girl%20%28cinema%20Ver.%29.mp3
+                <Title>Gakkou To School Girl (cinema Ver.)</Title>
+                <Author>Hitomi Shimizu</Author>
+            </Song>
+            <Song index="16">
+                17.%20Hinako%20No%20Omoide.mp3
+                <Title>Hinako No Omoide</Title>
+                <Author>Tomoko Kataoka</Author>
+            </Song>
+            <Song index="17">
+                18.%20Uchuu%20No%20Iriguchi.mp3
+                <Title>Uchuu No Iriguchi</Title>
+                <Author>Tomoko Kataoka</Author>
+            </Song>
+            <Song index="18">
+                19.%20Tochan%20No%20Omochi.mp3
+                <Title>Tochan No Omochi</Title>
+                <Author>Tomoko Kataoka</Author>
+            </Song>
+            <Song index="19">
+                20.%20Himitsu.mp3
+                <Title>Himitsu</Title>
+                <Author>Tomoko Kataoka</Author>
+            </Song>
+            <Song index="20">
+                21.%20Himitsu.mp3
+                <Title>Himitsu</Title>
+                <Author>Tomoko Kataoka</Author>
+            </Song>
+            <Song index="21">
+                22.%20Ojiichan%20No%20Omochi.mp3
+                <Title>Ojiichan No Omochi</Title>
+                <Author>Tomoko Kataoka</Author>
+            </Song>
+            <Song index="22">
+                23.%20Osenti%20Tamako%20%28cinema%20Ver.%29.mp3
+                <Title>Osenti Tamako (cinema Ver.)</Title>
+                <Author>Tomoko Kataoka</Author>
+            </Song>
+            <Song index="23">
+                24.%20Nakaniwa.mp3
+                <Title>Nakaniwa</Title>
+                <Author>Tomoko Kataoka</Author>
+            </Song>
+            <Song index="24">
+                25.%20Koi%20No%20Arekore.mp3
+                <Title>Koi No Arekore</Title>
+                <Author>Tomoko Kataoka</Author>
+            </Song>
+            <Song index="25">
+                26.%20Hinako.mp3
+                <Title>Hinako</Title>
+                <Author>Tomoko Kataoka</Author>
+            </Song>
+            <Song index="26">
+                27.%20Tamako%20He.mp3
+                <Title>Tamako He</Title>
+                <Author>Tomoko Kataoka</Author>
+            </Song>
+            <Song index="27">
+                28.%20Ue%20Wo%20Muite%20Arukou.mp3
+                <Title>Ue Wo Muite Arukou</Title>
+                <Author>Hachidai Nakamura</Author>
+            </Song>
+            <Song index="28">
+                29.%20Kyoushitsu.mp3
+                <Title>Kyoushitsu</Title>
+                <Author>Suguru Yamaguchi</Author>
+            </Song>
+            <Song index="29">
+                30.%20Midori%20No%20Theme.mp3
+                <Title>Midori No Theme</Title>
+                <Author>Tomoko Kataoka</Author>
+            </Song>
+            <Song index="30">
+                31.%20Kaze%20No%20Fuku%20Saki.mp3
+                <Title>Kaze No Fuku Saki</Title>
+                <Author>Tomoko Kataoka</Author>
+            </Song>
+            <Song index="31">
+                32.%20Koi%20No%20Uta%20_%20Kitashirakawa%20Tamako.mp3
+                <Title>Koi No Uta / Kitashirakawa Tamako</Title>
+                <Author>Tomoko Kataoka</Author>
+            </Song>
+            <Song index="32">
+                33.%20Principle.mp3
+                <Title>Principle</Title>
+                <Author>Tomoko Kataoka</Author>
+            </Song>
+            <Song index="33">
+                34.%20Midori%20No%20Kimochi%20%28bonus%20Track%29%20.mp3
+                <Title>Midori No Kimochi (bonus Track) </Title>
+                <Author>Tomoko Kataoka</Author>
+            </Song>
         </Album>
     </Albums>
 </Radio>
