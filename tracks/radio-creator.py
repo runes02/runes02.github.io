@@ -24,15 +24,10 @@ def get_mp3_length(mp3_path):
     try:
         audio = MP3(mp3_path)
         length_seconds = audio.info.length
-        return length_seconds  # Return as float for conversion
+        return length_seconds  # Return as float for decimal representation
     except Exception as e:
         print(f"Error reading length for {mp3_path}: {e}")
         return 0.0
-
-def format_seconds_to_mmss(seconds):
-    minutes = int(seconds // 60)
-    seconds = int(seconds % 60)
-    return f"{minutes:02}:{seconds:02}"
 
 def get_existing_radio_info(xml_path):
     try:
@@ -65,9 +60,8 @@ def create_xml_from_mp3s(base_directory, radio_name, radio_description):
                 encoded_file_name = quote(mp3_file)
                 title, author = get_mp3_metadata(mp3_path)
                 length_seconds = get_mp3_length(mp3_path)
-                length_mmss = format_seconds_to_mmss(length_seconds)
 
-                song = ET.SubElement(album, "Song", index=str(index), length=length_mmss)
+                song = ET.SubElement(album, "Song", index=str(index), length=f"{length_seconds:.2f}")
                 song.text = encoded_file_name
                 ET.SubElement(song, "Title").text = title
                 ET.SubElement(song, "Author").text = author
