@@ -24,10 +24,15 @@ def get_mp3_length(mp3_path):
     try:
         audio = MP3(mp3_path)
         length_seconds = audio.info.length
-        return f"{length_seconds:.2f}"  # Format as decimal seconds
+        return length_seconds  # Return as float for conversion
     except Exception as e:
         print(f"Error reading length for {mp3_path}: {e}")
-        return "0.00"
+        return 0.0
+
+def format_seconds_to_mmss(seconds):
+    minutes = int(seconds // 60)
+    seconds = int(seconds % 60)
+    return f"{minutes:02}:{seconds:02}"
 
 def get_existing_radio_info(xml_path):
     try:
@@ -55,13 +60,14 @@ def create_xml_from_mp3s(base_directory, radio_name, radio_description):
             mp3_files = [f for f in os.listdir(folder_path) if f.lower().endswith('.mp3')]
             mp3_files.sort()
 
-            for mp3_file in mp3_files:
+            for index, mp3_file in enumerate(mp3_files):
                 mp3_path = os.path.join(folder_path, mp3_file)
                 encoded_file_name = quote(mp3_file)
                 title, author = get_mp3_metadata(mp3_path)
-                length = get_mp3_length(mp3_path)
+                length_seconds = get_mp3_length(mp3_path)
+                length_mmss = format_seconds_to_mmss(length_seconds)
 
-                song = ET.SubElement(album, "Song", length=length)
+                song = ET.SubElement(album, "Song", index=str(index), length=length_mmss)
                 song.text = encoded_file_name
                 ET.SubElement(song, "Title").text = title
                 ET.SubElement(song, "Author").text = author
@@ -91,11 +97,11 @@ if __name__ == "__main__":
                 radio_description = input("Enter a description for your radio: ")
         else:
             print("Error retrieving existing radio information. Please enter new details.")
-            radio_name = input("Enter the name for the Radio: ")
-            radio_description = input("Enter the description for the Radio: ")
+            radio_name = input("Enter a name for your radio: ")
+            radio_description = input("Enter a description for your radio: ")
     else:
-        radio_name = input("Enter the name for the Radio: ")
-        radio_description = input("Enter the description for the Radio: ")
+        radio_name = input("Enter a name for your radio: ")
+        radio_description = input("Enter a description for your radio: ")
 
     # Create the XML with the provided inputs
     create_xml_from_mp3s(os.getcwd(), radio_name, radio_description)
